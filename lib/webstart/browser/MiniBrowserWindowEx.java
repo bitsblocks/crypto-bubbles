@@ -1,4 +1,4 @@
-package webrunner.browser;
+package webstart.browser;
 
 import org.apache.log4j.Logger;
 import org.eclipse.swt.SWT;

@@ -1,0 +1,22 @@
+*.class
+
+#######################
+# Java Package Files
+
+*.jar
+*.war
+*.ear
+
+
+#######################
+# Eclipse Project Files
+
+.classpath
+.project
+
+
+################
+# Maven Projects
+
+target/
+
