@@ -20,3 +20,14 @@
 
 target/
 
+#################
+# Gradle
+
+gradle.properties
+.gradle/
+build/
+
+
+
+
+
