@@ -4,11 +4,12 @@ apply plugin: 'java'
 
 dependencies {
   // include log4j, jna, swt(win32-x86)
-  compile fileTree(dir: '../build/libs', include: '*.jar')
+  // compile fileTree(dir: '../build/libs', include: '*.jar')
   
   
   // todo: find a better way to include sub-project
-  compile fileTree(dir: '../webstart-utils/build/libs', include: '*.jar')
+  // compile fileTree(dir: '../webstart-utils/build/libs', include: '*.jar')
+  compile project( ':webstart-utils' )
 }
 
 
