@@ -286,7 +286,7 @@ website that parodies the scammy ICO to warns investors of the
 plethora of scams and criminal enterprises that infest and dominate
 crypto land.[^18]
 
-[^18]: The SEC created a fake ICO website to show just how easy it is to scam investors, See: <https://www.marketwatch.com/story/the-sec-created-a-mock-ico-website-to-show-just-how-easy-it-is-forinvestors-to-get-fleeced-2018-05-16>
+[^18]: See: <https://www.marketwatch.com/story/the-sec-created-a-mock-ico-website-to-show-just-how-easy-it-is-forinvestors-to-get-fleeced-2018-05-16>
 
 
 This scammy eco-system is consistent with the idiotic crypto jargon:
