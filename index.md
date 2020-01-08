@@ -80,5 +80,23 @@ No asset class in human history has ever experienced such a rapid
 boom and total utter bust and implosion that includes thousands of
 different crypto-assets.
 
-[^2]: <https://www.newsbtc.com/2018/10/09/juniper-research-the-crypto-industry-is-on-the-brink-of-an-implosion/>
+[^2]: Juniper Research: "The Crypto Industry is on the Brink of an Implosion", see: <https://www.newsbtc.com/2018/10/09/juniper-research-the-crypto-industry-is-on-the-brink-of-an-implosion/>
+
+
+
+## Crypto is not money, not scalable
+
+To be a currency, Bitcoin – or any crypto-currencies - should be a
+serviceable unit of account, means of payments, and a stable store of
+value. It is none of those things. No one prices anything in Bitcoin. Few
+retailers accept it. And it is a poor store of value, because its price can
+fluctuate by 20-30% in a single day. And since its price has been so
+unstable or volatile almost no merchant will ever use it as a means of
+payment: the profit margin of any merchant can be wiped out in a
+matter of minutes – if he or she accepts Bitcoin or any other cryptocurrency –by the change in the dollar price of a crypto-currency. Proper
+means of payments need to have stable purchasing power; otherwise
+no one will ever use them.
+
+
+
 
