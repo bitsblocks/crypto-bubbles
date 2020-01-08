@@ -98,35 +98,103 @@ means of payments need to have stable purchasing power; otherwise
 no one will ever use them.
 
 
+As is typical of a financial bubble, investors were buying
+cryptocurrencies not to use in transactions, but because they expected
+them to increase in value. Indeed, if someone actually wanted to use
+Bitcoin, they would have a hard time doing so. It is so 
+[energy-intensive (and thus environmentally toxic) to produce](https://www.nytimes.com/2018/01/21/technology/bitcoin-mining-energy-consumption.html), and carries such high
+transaction costs, that even Bitcoin conferences [do not accept it](https://slate.com/technology/2018/01/the-most-important-blockchain-conference-of-the-year-wont-take-bitcoin-for-last-minute-sales.html) as a
+valid form of payment. Paying $55 dollars of transaction costs to buy a
+$2 coffee cup is obviously never going to lead Bitcoin to become a
+transaction currency.
+
+
+Until now, Bitcoin's only real use has been to facilitate illegal activities
+such as drug transactions, tax evasion, avoidance of capital controls, or
+money laundering. Not surprisingly, G20 member states are now
+working together to regulate cryptocurrencies and eliminate the
+anonymity they supposedly afford, by requiring that all income - or
+capital-gains-generating transactions be reported. Even the US Treasury
+Secretary Steve Mnuchin has publicly stated that we cannot allow
+crypto-currencies to become the next Swiss bank account. 
+
+Since the invention of money thousands of years ago, there has never
+been a monetary system with hundreds of different currencies
+operating alongside one another. The entire point of money is that it
+allows parties to transact without having to barter. But for money to
+have value, and to generate economies of scale, only so many
+currencies can operate at the same time.
+
+In the US, the reason we do not use euros or yen in addition to dollars
+is obvious: doing so would be pointless, and it would make the
+economy far less efficient. The idea that hundreds of cryptocurrencies
+could viably operate together not only contradicts the very concept of
+money with a single numeraire that can be used for the price discovery
+of the relative price of thousands of good; it is utterly idiotic as the use
+of multiple numeraires is like the stone age of barter before money was
+created.
+
 ## Supply of crypto is massive. Bitcoin is deflationary
+
+
+
+
 
 ## Financial crises occurred well before fiat currencies and central banking; and are now less virulent thanks to central banks and fiat money.
 
+...
+
 ## The real revolution in financial services is FinTech and it has nothing to do with Blockchain or Crypto
+
+...
 
 ## Buterin's inconsistent trinity: crypto is not scalable, is not decentralized, is not secure
 
+...
+
 ## No security in crypto-currencies
+
+...
 
 ## Decentralization is a self-serving ideology
 
+...
+
 ## Decentralization is a myth: massive centralization and concentration of oligopolistic power and cartels among miners, exchanges, developers, wealth holders
+
+...
 
 ## Crypto is not the internet nor will ever be
 
+...
+
 ## ICOs are not compliant securities when they aren't outright scams
+
+...
 
 ## Tokenization: cartels aimed to gouge consumers. No numeraire and return to barter
 
+...
+
 ## Massive manipulation: pump n dump, spoofing, wash trading, front running, exchanges conflicts of interest, tether scam
+
+...
 
 ## No Killer App in Crypto/Blockchain After A Decade: Only Ponzi Schemes
 
+...
+
 ## The energy consumption of crypto is an environmental disaster
+
+...
 
 ## Blockchain is most overhyped technology ever, no better than a glorified spreadsheet or database
 
+...
+
 ## Enterprise DLT/Blockchain: All hype and no reality
+
+...
 
 ## Crypto is corrupt eco-system full of charlatans, con-men, self-interested insiders and scammers. But I have NO conflict of interest
 
