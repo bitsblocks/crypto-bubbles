@@ -80,7 +80,7 @@ No asset class in human history has ever experienced such a rapid
 boom and total utter bust and implosion that includes thousands of
 different crypto-assets.
 
-[^2]: Juniper Research: "The Crypto Industry is on the Brink of an Implosion", see: <https://www.newsbtc.com/2018/10/09/juniper-research-the-crypto-industry-is-on-the-brink-of-an-implosion/>
+[^2]: See: <https://www.newsbtc.com/2018/10/09/juniper-research-the-crypto-industry-is-on-the-brink-of-an-implosion/>
 
 
 
@@ -134,10 +134,85 @@ of the relative price of thousands of good; it is utterly idiotic as the use
 of multiple numeraires is like the stone age of barter before money was
 created.
 
+
 ## Supply of crypto is massive. Bitcoin is deflationary
 
+But so, too, is the idea that even a single cryptocurrency could
+substitute for fiat money. Cryptocurrencies have no intrinsic value,
+whereas fiat currencies certainly do, because they can be used to pay
+taxes. Fiat currencies are legal tender and can be used and are used to
+buy any good or service; and they can be used to pay for tax liabilities.
+They are also protected from value debasement by central banks
+committed to price stability; and if a fiat currency loses credibility, as in
+some weak monetary systems with high inflation, it will be swapped
+out for more stable foreign fiat currencies – like the dollar or the euro -
+or real assets such as real estate, equities and possibly gold. Fiat money
+also is not created out of thin air: these liabilities of a central bank such
+as the Fed are backed by the Fed assets: their holdings of short term
+and longer term Treasury securities (that have near AAA sovereign
+credit status in the US) and holding of foreign reserves including gold
+and other stable foreign currencies. The usual crypto critique of fiat
+currencies that can be debased via inflation is nonsense: for the last 30
+years commitment to inflation targeting in advanced economies and
+most emerging markets has led to price stability (the 2% inflation target
+of most central banks) and for the last decade the biggest problem of
+central banks has been that achieving the inflation target of 2% after
+the GFC has become extremely difficult as, in spite of unconventional
+monetary policies, the inflation rate has systematically undershot its 2%
+target.
 
+Instead 99.9% all crypto-currencies instead have no backing whatsoever
+of any sort and have no intrinsic value of any sort; and even the socalled "stable coins" have only partial backing at best with true US
+dollars reserves or, like Tether, most likely no backing at all as there has
+never been a proper audit of their accounts. 
 
+As it happens, Bitcoin's supposed advantage is also its Achilles's heel,
+because even if it actually did have a steady-state supply of 21 million
+units, that would disqualify it as a viable currency. Unless the supply of
+a currency tracks potential nominal GDP, prices will undergo deflation.
+
+That means if a steady - state supply of Bitcoin really did gradually
+replace a fiat currency, the price index of all goods and services would
+continuously fall. By extension, any nominal debt contract denominated
+in Bitcoin would rise in real value over time, leading to the kind of debt 
+deflation that economist Irving Fisher believed [precipitated](https://campus.fsu.edu/bbcswebdav/users/jcalhoun/Courses/Growth_of_American_Economy/Chapter_Supplemental_Readings/Chapter_23/Fisher-The_Debt_Deflation_Theory.pdf) the Great
+Depression. At the same time, nominal wages in Bitcoin would increase
+forever in real terms, regardless of productivity growth, adding further
+to the likelihood of an economic disaster.
+
+Worse, cryptocurrencies in general are based on a false premise.
+According to its promoters, Bitcoin has a steady-state supply of 21
+million units, so it cannot be debased like fiat currencies. But that claim
+is clearly fraudulent, considering that it has already forked off into
+several branches and spin-offs: Bitcoin Cash and Bitcoin Gold. Ditto for
+the various forks and spin-off of Ether from the Ethereum cartel. It took
+a century for Coca Cola to create the new Coke and call the old one
+Coke Classic. But it took three years to Ethereum to dump the first ETH
+into Ethereum Classic and create and brand new spin-off, ETH. 
+
+Moreover, hundreds of other cryptocurrencies are invented every day,
+alongside scams known as "initial coin offerings," which are mostly
+designed to [skirt securities laws](https://ftalphaville.ft.com/2018/01/23/2197970/ico-regulator-anger-translator/). And their supply is created and
+debased every day by pure fiat and in the most arbitrary way. So
+crypto-currencies are creating crypto money supply and debasing it at a
+much faster pace than any major central bank ever has. No wonder that
+the average crypto-currency has lost 95% of its value in a matter of a
+year. 
+
+At least in the case of Bitcoin the increase in supply is controlled by a
+rigorous mining process and the supply is capped – at the limit – to 21
+million bitcoins. Instead, most other alt-coins starting with the leading
+ETH, have an arbitrary supply that was created via pre-mining and presale; and the change of supply of that and thousands of other cryptocurrencies is now subject to arbitrary decision of self-appointed
+"central bankers". 
+
+And the biggest scam of all is the case of "stable coins" – starting with
+Tether – that claimed to be pegged one to one to the US dollar but are 
+not fully collateralized by an equal backing of true US dollars. Bitfinex -
+behind the scammy Tether – has persistently refused to be properly
+audited and its creation of fiat Tether has been systematically used to
+prop up manipulate upward the price of Bitcoin and other cryptocurrencies according to a recent academic paper. [^3]
+
+[^3]: See: <https://www.bloomberg.com/news/articles/2018-06-13/professor-who-rang-vix-alarm-says-tether-used-toboost-bitcoin>
 
 
 ## Financial crises occurred well before fiat currencies and central banking; and are now less virulent thanks to central banks and fiat money.
