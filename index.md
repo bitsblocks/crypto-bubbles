@@ -668,13 +668,141 @@ of technologies.
 
 ## ICOs are not compliant securities when they aren't outright scams
 
-...
+
+
+Initial coin offerings have become the most common way to finance
+cryptocurrency ventures, of which there are now [nearly 1,600](https://coinmarketcap.com/all/views/all/) and
+rising. In exchange for your dollars, pounds, euros, or other currency,
+an ICO issues digital "tokens," or "coins," that may or may not be used
+to purchase some specified good or service in the future.
+
+
+Thus it is little wonder that, according to the ICO advisory firm Satis
+Group, [81% of ICOs are scams](https://medium.com/satis-group/cryptoasset-market-update-b678aeda4c5e) created by con artists, charlatans, and
+swindlers looking to take your money and run. It is also little wonder
+that only 8% of cryptocurrencies end up being traded on an exchange,
+meaning that 92% of them failed. It would appear that ICOs serve little
+purpose other than to skirt securities laws that exist to protect
+investors from being cheated.
+
+
+If you invest in a conventional (non-crypto) business, you are afforded a
+variety of legal rights – to dividends if you are a shareholder, to interest
+if you are a lender, and to a share of the enterprise's assets should it
+default or become insolvent. Such rights are enforceable because
+securities and their issuers must be registered with the state.
+
+
+Moreover, in legitimate investment transactions, issuers are required
+to disclose accurate financial information, business plans, and potential
+risks. There are restrictions limiting the sale of certain kinds of high-risk
+securities to qualified investors only. And there are anti-moneylaundering (AML) and know-your-customer (KYC) regulations to prevent
+tax evasion, concealment of ill-gotten gains, and other criminal
+activities such as the financing of terrorism.
+
+In the Wild West of ICOs, most cryptocurrencies are issued in breach of
+these laws and regulations, under the pretense that they are not 
+securities at all but rather "security tokens" [^10]. Hence, most ICOs deny
+investors any legal rights whatsoever. They are generally accompanied
+by vaporous "white papers" instead of concrete business plans. Their
+issuers are often anonymous and untraceable. And they skirt all AML
+and KYC regulations, leaving the door open to any criminal investor.
+
+[^10]: We will discuss below the other scam of so-called "utility token".
+
+
+Jay Clayton, the chairman of US Securities and Exchange Commission,
+recently [made it clear](https://finance.yahoo.com/news/sec-ico-tokens-regulated-securities-205650102.html) that he regards all cryptocurrencies as securities,
+with the exception of the first mover, Bitcoin, which he considers a
+commodity. The implication is that even Ethereum and Ripple – the
+second- and third-largest crypto-assets – are currently operating as
+unregistered securities [^11]. Gary Gensler, a former chairman of the
+Commodities and Futures Trading Commission who now teaches a
+course on [blockchain](https://www.project-syndicate.org/commentary/blockchain-technology-limited-applications-by-nouriel-roubini-and-preston-byrne-2018-03) (the technology underlying cryptocurrencies) at
+MIT, has also [suggested](https://www.bloomberg.com/news/articles/2018-04-23/ether-ripple-may-be-securities-former-cftc-head-gensler-says) as much.
+
+
+[^11]: A legal scholar such as Preston Byrne has shown that Ripple Labs has created XRP; see <https://prestonbyrne.com/2018/09/20/for-the-last-time-ripple-created-xrp/>
+
+
+And legal scholars such as Preston Byrne have not only confirmed that
+they Ether was created makes it a clear security. [^12] They have also
+shown that the creation of Ethereum may have been a criminal insider
+con job where a small group of whale – starting with the billionaires
+who created this scheme – pretended to make a market-based "presale" of Ether but they instead sold to themselves – most likely at
+bargain basement prices – a great fraction of the ETH created in the
+pre-sale. And so far regulators have done nothing to investigate, let
+alone, prosecute such a cartelized scam. 
+
+[^12]: See: <https://prestonbyrne.com/2018/04/23/on-ethereum-security/>
+
+
 
 ## Tokenization: cartels aimed to gouge consumers. No numeraire and return to barter
 
-...
+So hundreds of ICOs that have raised billions of dollars from investors in
+recent years have been technically illegal as they are non-compliant
+securities hiding under the label of "security tokens". Even worse, the
+business model behind most of the remaining ones – the so-called
+"utility tokens" - is simply to fleece customers, as Izabella Kaminska of
+the _Financial Times_ and Martin Walker of the Center for EvidenceBased Management recently demonstrated in a [report](http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/treasury-committee/digital-currencies/written/82032.html) for the UK
+House of Commons Treasury Committee.
 
-## Massive manipulation: pump n dump, spoofing, wash trading, front running, exchanges conflicts of interest, tether scam
+
+In normal business transactions, customers can buy goods and service
+with conventional currencies. But in an ICO, customers must convert
+that currency by buying into a limited pool of tokens in order to make a
+purchase. No legitimate business that is trying to maximize profits
+would require its customers to jump through such hoops of first buying
+an "utility token" before being able to transact goods or services.
+
+In fact, the only reason to restrict a purchase to token-holders is to
+create an illegal cartel of service providers who are safe from price
+competition and in a position to gouge their customers.
+Consider Dentacoin, a ridiculous cryptocurrency that can be spent only
+on dental services (and which almost no dentist actually accepts). It
+would be hard to come up with a better illustration of why business
+cartels are illegal in all civilized countries.
+
+
+Of course, the crypto-cartels would counter that customers who incur
+the cost of buying a token will benefit if that token appreciates in value.
+But this makes no sense. If the price of the token rises above the
+market value of the good or service being provided, then no one would
+buy the token. The only plausible reason for forcing the use of a token,
+then, is to hike prices or bilk investors.
+
+Beyond facilitating illegal activity, crypto-tokens obfuscate the pricediscovery benefits that come when a single currency operates as a unit
+of account. In a crypto-utopia, every single good and service would 
+have its own distinct token, and average consumers would have no way
+to judge the relative prices of different – or even similar – goods and
+services. Nor would they have any real certainty about a token's
+purchasing power, given the volatility of crypto-token prices.
+
+Imagine living in a country where instead of simply using the national
+currency, you had to rely on 200 other world currencies to purchase
+different goods and services. There would be widespread price
+confusion, and you would have to eat the cost of converting one
+volatile currency into another every time you wanted to buy anything.
+
+The fact that everyone within a given country or jurisdiction uses the
+same currency is precisely what gives money its value. Money is a
+public good that allows individuals to enter into free exchange without
+having to resort to the kind of imprecise, inefficient bartering on which
+traditional societies depended.
+
+That is precisely where the ICO charlatans would effectively take us –
+not to the futuristic world of "[The Jetsons](https://www.imdb.com/title/tt0055683/)," but to the modern Stone
+Age world - that is worse than "[The Flintstones]()https://www.imdb.com/title/tt0053502/" – who at least used
+clam shells as their money and understood the importance of a single
+numeraire - where all transactions occur through the barter of different
+tokens or goods. It is time to recognize their utopian rhetoric for what it
+is: self-serving nonsense meant to separate credulous investors from
+their hard-earned savings.
+
+
+
+## Massive manipulation: pump 'n' dump, spoofing, wash trading, front running, exchanges conflicts of interest, tether scam
 
 ...
 
