@@ -924,11 +924,210 @@ an hangover" [^15]
 
 ## Blockchain is most overhyped technology ever, no better than a glorified spreadsheet or database
 
-...
+And why is blockchain no better than an Excel spreadsheet or
+database? 
+
+There is no institution under the sun – bank, corporation, non-profit,
+government, charity – who would put on public, decentralized, peer-topeer permission-less, trust-lees, distributed ledgers its balance sheet,
+P&L, transactions, trades, interactions with clients and suppliers. Why
+should all this information – mostly proprietary and highly valuable – be
+on a public ledger and authenticated by some random, not transparent
+and shady group of "miners"? No reason and thus there is NO
+institution whatsoever using a public, permission-less distributed
+technology. 
+
+The only applications of blockchain – so called "enterprise distributed ledger technology (DLT)" – have
+in reality absolutely nothing to do with blockchain. They are private not
+public, they are centralized not decentralized, they are not distributed 
+as they are on a few controlled ledgers not millions of public ones, they
+are permissioned with very few legitimate individuals authorized to add
+and change the ledgers rather than being permission-less, they are
+based on trusted authorities that have reputation and credibility build
+over time rather than being trustless, they are not peer-to-peer as a
+centralized and permissioned intermediary is in charge of
+authentication. In other term they are called blockchains but they are
+not blockchains as they have nothing to do with a public distributed
+ledger technology. 
+
+So all so called "decentralized" blockchains end up being centralized
+private permissioned databases, ie effectively no improvement over
+using an Excel spreadsheet rather than hogging more energy than most
+large-sized economies to put private information on millions of
+computers all over the world. 
+
+And now wonder as no person or firm or institution in authority in the
+private or public sector would ever allow all of its transactions to be
+verified by an oligopoly of shady non transparent agents in autocratic
+countries where all power is centralized. So it is no surprise that any
+institution under the sun after experimenting with a pilot "blockchain"
+dumps it into the garbage bin or turns it into a private permissioned
+database that is no "blockchain" in any dimension but its misleading
+name.
+
+Also as for the underlying pseudo-blockchain technology, there are
+still [massive obstacles](https://ftalphaville.ft.com/2016/09/27/2175973/the-diminishing-returns-of-blockchain-fetishism/) standing in its way. Chief among them is that it
+lacks the kind of [basic common and universal protocols](https://ftalphaville.ft.com/2018/01/11/2197546/why-blockchain-is-a-belief-system/) that made the
+Internet universally accessible (TCP-IP, HTML, and so forth): there are
+1000s different "blockchain" incompatible with each other and totally
+lacking the critical "inter-operability" that the Internet had from the
+beginning. More fundamentally, its [promise of decentralized transactions](https://www.ft.com/content/b5b1a5f2-5030-11e7-bfb8-997009366969)
+with no intermediary authority amounts to [an untested, Utopian pipedream](https://ftalphaville.ft.com/2017/11/22/2196054/taking-the-block-out-of-blockchain/). 
+No wonder blockchain [is ranked close to the peak of the hype cycle of technologies with inflated expectations](https://www.gartner.com/newsroom/id/3412017).
+
+
+So blockchain is one of the most [overhyped technologies ever](https://www.project-syndicate.org/commentary/why-bitcoin-is-a-bubble-by-nouriel-roubini-2018-01).
+Blockchains are less efficient than existing databases. When someone
+says they are running something "on a blockchain," what they usually
+mean is that they are running one instance of a software application
+that is replicated across many other devices.
+
+If it is truly distributed the required storage space and computational
+power is substantially greater, and the latency higher, than in the case
+of a centralized application. Blockchains that will incorporate "proof-of-stake" or "zero-knowledge" technologies will require that all
+transactions be verified cryptographically, which slows them down.
+Blockchains that use "proof-of-work," as many popular
+cryptocurrencies do, raise yet another problem: they require a huge
+amount of raw energy to secure them and are not scalable. This
+explains why Bitcoin "mining" operations in Iceland are on track to
+consume [more energy](http://www.bbc.co.uk/news/technology-43030677) this year than all Icelandic households
+combined.
+
+Blockchains can make sense in cases where the speed/verifiability
+tradeoff is actually worth it, but this is rarely how the technology is
+marketed. Blockchain investment propositions routinely make wild
+promises to overthrow entire industries, such as [cloud computing](https://dfinity.org/),
+without acknowledging the technology’s obvious limitations.
+
+
+Consider the many schemes that rest on the claim that blockchains are
+a distributed, universal "world computer." That claim assumes that
+banks, which already use efficient systems to process millions of
+transactions per day, have reason to migrate to a markedly slower and
+less efficient single cryptocurrency. This contradicts everything we
+know about the financial industry's use of software. Financial 
+institutions, particularly those engaged in algorithmic trading, need fast
+and efficient transaction processing. For their purposes, a single
+globally distributed blockchain such as Ethereum would never be useful
+and they will never use it.
+
+
+Another false assumption is that blockchain represents something akin
+to a new universal protocol, like TCP-IP or HTML were for the Internet.
+Such claims imply that this or that blockchain – among thousands that
+are incompatible with each other - will serve as the basis for most of
+the world’s transactions and communications in the future. Again, this
+makes little sense when one considers how blockchains actually work.
+For one thing, blockchains themselves rely on protocols like TCP-IP, so it
+isn't clear how they would ever serve as a replacement.
+
+Furthermore, unlike base-level protocols, blockchains are "stateful,"
+meaning they store every valid communication that has ever been sent
+to them. As a result, well-designed blockchains need to consider the
+limitations of their users' hardware and guard against spamming. This
+explains why Bitcoin Core, the Bitcoin software client, processes only 5-7 transactions per second, compared to Visa, which reliably processes
+25,000 transactions per second.
+
+Just as we cannot record all of the world's transactions in a single
+centralized database, nor shall we do so in a single distributed
+database. Indeed, the problem of "blockchain scaling" is still more or
+less unsolved, and is likely to remain so forever.
+
+
+Although we can be fairly sure that blockchain will not unseat TCP-IP, a
+particular blockchain could eventually set a standard for specific private
+permissioned, not general and public, applications, just as Enterprise
+Linux and Windows did for PC operating systems. But betting on a
+particular "coin," as many investors currently are, is not the same thing
+as betting on adoption of a larger "protocol" that does not require the
+use of any coin. Given what we know about how open-source software 
+is used, there is little reason to think that the value to enterprises of
+specific blockchain applications will capitalize directly into any coin.
+
+A third false claim concerns the "trustless" utopia that blockchain will
+supposedly create by eliminating the need for financial or other reliable
+intermediaries. This is absurd for a simple reason: every financial
+contract in existence today can either be modified or deliberately
+breached by the participating parties. Automating away these
+possibilities with rigid "trustless" terms is commercially non-viable, not
+least because it would require all financial agreements to be cash
+collateralized at 100%, [which is insane](https://prestonbyrne.com/2017/12/10/stablecoins-are-doomed-to-fail/) from a cost-of-capital
+perspective.
+
+Moreover, it turns out that many likely appropriate applications of
+blockchain in finance – such as in securitization or supply-chain
+monitoring – will require permissioned centralized intermediaries after
+all, because there will inevitably be circumstances where unforeseen
+contingencies arise, demanding the exercise of discretion. The most
+important thing blockchain will do in such a situation is ensure that all
+parties to a transaction are in agreement with one another about its
+status and their obligations before a trusted and permissioned central
+authority verifies the transaction.
+
+
+It is high time to end the hype. Bitcoin is a slow, energy-inefficient
+dinosaur that will never be able to process transactions as quickly or
+inexpensively as an Excel spreadsheet. Ethereum’s plans for an insecure
+proof-of-stake authentication system will render it vulnerable to
+manipulation by influential insiders. And Ripple's technology for crossborder interbank financial transfers is already left in the dust by [SWIFT](https://www.swift.com/our-solutions/global-financial-messaging/payments-cash-management/swift-gpi),
+a non-blockchain consortium that all of the world’s major financial
+institutions already use. And the technology behind Ripple is different
+from its coin XRP: some may use the technology/protocol but no one
+will use the underlying coin whose value has collapsed. Ditto for Ether 
+versus Ethereum. Similarly, centralized e-payment systems with almost
+no transaction costs – Faster Payments, AliPay, WeChat Pay, Venmo,
+Paypal, Square – are already being used by billions of people around
+the world who are doing billions of low cost/fee secure transactions.
+
+Ultimately, private permissioned blockchain's uses will be limited to
+specific, narrow well-defined, and complex applications that require
+transparency and tamper-resistance more than they require speed. So
+they are not truly a "blockchain".
+
+
+A case in point, among hundreds of other cases, is the recent
+announcement of the IBM food "blockchain" going live with a major
+supermarket giant being on board with this project. Leave aside that
+the success of such a project – as any other Enterprise DLT one - is
+more than sketchy as there is no general accepted protocol to make
+this system inter-operable among thousands of users and customers.
+The key issue is – as the IBM spokesman quoted in the article say – that
+this system "obviously requires the growers, the suppliers, and the
+retailers all to be part of the solution, sending in information in a trusted
+and permissioned fashion and we link it all together." [^16] So this alleged
+blockchain system is trusted not trustless, permissioned not permissionless and managed and linked strictly by IBM, not a distributed peer-topeer consensus mechanism managed by millions of anonymous
+computers. Therefore, this project has nothing to do with blockchain,
+as defined in standard terms. It is a traditional database with the usual
+key elements of a private, permissioned databased managed by
+centralized and trusted authorities. And the same exact model is the
+base of any other Enterprise DLT: none of them have anything
+substantial to do with blockchain even if they use this faddy and catchy
+label. 
+
+[^16]: See <https://www.coindesk.com/ibm-food-supply-chain-blockchain-carrefour-live-production/>
+
 
 ## Enterprise DLT/Blockchain: All hype and no reality
 
-...
+This is also the reason why corporate blockchains or Enterprise DLT are
+another fad this is now fading and imploding, as a recent Bloomberg
+analysis revealed. [^17] Most companies will halt their blockchain or DLT
+tests this year; and in 90% of the cases "the experiments will never
+become part of a company's operations". An analyst from Gartner – the
+leading tech research firm - concluded: "The disconnect between the
+hype and the reality is significant -- I've never seen anything like it…. "In
+terms of actual production use, it's very rare."
+
+[^17]: See <https://www.bloomberg.com/news/articles/2018-07-31/blockchain-once-seen-as-a-corporate-cure-all-suffersslowdown>
+
+And the interest in corporate blockchain is collapsing: "Only 1 percent
+of chief information officers said they had any kind of blockchain
+adoption in their organizations, and only 8 percent said they were in
+short-term planning or active experimentation with the technology,
+according to a Gartner [study](https://www.gartner.com/newsroom/id/3873790). Nearly 80 percent of CIOs said they had
+no interest in the technology."
+
+
+
 
 ## Crypto is corrupt eco-system full of charlatans, con-men, self-interested insiders and scammers. But I have NO conflict of interest
 
