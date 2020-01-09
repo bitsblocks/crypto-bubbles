@@ -371,11 +371,153 @@ by miners’ fees divided by number of transactions – have skyrocketed.
 
 ## No security in crypto-currencies
 
-...
+So even PoW that is not scalable leads to concentration/centralization
+and thus lack of security. PoS and other authentication mechanisms
+that are scalable are much worse: bigger concentrated oligopolistic
+cartels and thus lack of security.
+
+Also 51% attacks are not a theoretic possibility that is impossible in
+practice. Dozens of successful 51% attacks have occurred recently. In
+smaller coins with a small market capitalization you don’t even need a
+51% hash power to mount a successful 51% attack. And since market
+cap is low a few hundreds of thousands of dollars – or at best a couple
+of millions – are sufficient to mount a successful 51% attack whose gain
+is a 10 to 20X multiple of the cost of the attack. No wonder that dozens
+of successful 51% attack have occurred recently against smaller cryptocurrencies. 
+
+Fundamental flaws of lack of security in crypto land go well beyond the
+fact that mining is highly concentrated in oligopolies in shady and nontransparent and unsecure jurisdictions – China, Russia, Belarus,
+Georgia, etc. It also goes beyond the possibility and reality of massive
+and regular 51% attacks.
+
+There is a deeper and more fundamentals set of security flaws in crypto
+land. Conventional payment systems based on fiat currencies, central
+banks and private banks are scalable and secure but centralized; so
+they resolve Buterin's inconsistent trinity principle by giving up
+decentralization and relying on trusted permissioned authorities to
+resolve the "double spend" problem. 
+
+Instead, blockchains and cryptocurrencies not only are not scalable and
+are massively centralized; they are also massively not secure.
+When I use traditional financial systems based on fiat currencies there
+are many levels and layers of security. First I rely on institutions with a
+reputation and credibility built over time; there is also deposit
+insurance that guarantees the value of my deposits; there is the lender
+of last resort role of central bank to avoid runs on solvent but illiquid
+banks; sometimes even there is even the bailout of systemically
+important too-big-to-fail (TBTF) institutions with provisos to control this
+TBTF moral hazard. More importantly, a depositor or credit card holder
+is made whole with little effort when fraudulent transaction occur and
+someone tries to steal your money or make a fraudulent charge on
+your credit card. Society pays a small fee – in a number of ways – to
+ensure such safety but depositors and credit card holders are happy to
+pay such a modest fee in exchange for transaction security. So while
+many breaches of security may occur –as there are main weak points in
+the system – the system is secure and individual users of the system are
+also secure.
+
+
+In crypto land instead there are none of these institutions that provide
+security: no deposit insurance, no lender of last resort backstop, no
+insurance of hacked and stolen funds. And the breaches of security are
+massive and escalating. It is now clear that while Bitcoin has not been
+hacked yet the centralized exchanges that hold the cryptocurrencies of
+millions of depositors can be and have been hacked on a regular scale.
+And once your crypto assets are stolen they vanish in the vast
+anonymous void of crypto and cannot be found and retrieved any
+more. The vast hacking of centralized exchanges has led to the
+developments of dozens of decentralized exchanges (DEX) but 99% of
+all trading is on centralized exchanges and some security flaws of DEX
+imply that even the so called "secure" DEX are not secure at all. Once a
+hacker steals your private key - whether it is stored on an online wallet, 
+laptop, phone, computer or tablet or centralized exchange your crypto
+wealth is stolen and gone forever. 
+
+Given these massive security problems of crypto the solutions to these
+severe security problems are all variants of going back to the stone age:
+do not put your long private key – that no human can memorize ever –
+on any digital device but rather write it down on a piece of paper and
+hide it in a hole where hopefully no one will find it or no insect or rat
+will destroy it. Or spend a fortune to put your crypto assets into "cold
+storage", ie a digital storage that is disconnected from anything online.
+The latter is the stone age equivalent of hiding your wealth into deep
+caves that cannot be found by anyone. But leaving aside the cost of
+such stone age security solutions the implication becomes that your
+crypto wealth – hidden in deep cold storage – cannot be easily traded
+or used for transactions of any sort. This is the contemporary
+equivalent of mining gold deep from the ground and then hiding it in
+the form of gold ingots back deep in the ground. 
+
+Even such security solutions are not safe: criminals who know that
+access to your private key is access to your entire crypto wealth forever
+are now specializing into gunpoint robberies of crypto investors and
+whales (also known as "crypto robberies"). At gunpoint you are forced
+to provide your private key and then your wealth is gone for good. No
+wonder that crypto conferences have entire sessions devoted to secure
+your insecure crypto assets.
+
+Traditional banking systems have found secure solutions to such
+criminal security problems: even if a robber forces you at gunpoint to
+reveal the pin of your ATM card the amount of cash that can be
+withdrawn is limited to a small amount; similarly wire transfer of a
+significant size are subject to various forms of identity verification. o
+there is no way that your entire wealth can be stolen with a click as it 
+happens daily in crypto land. While crypto relies on stone age
+technologies and cannot even resolve such security problems.
+
 
 ## Decentralization is a self-serving ideology
 
-...
+Blockchain's ideology is politically born out of the same mentality as
+libertarian right wing conspiracies or extreme left anarchism: all
+governments, central banks, moneys, institutions, banks, corporations,
+entities with reputation and credibility build over centuries are evil
+centralized concentrations of power that literally need to be destroyed. 
+
+So the utopian crypto future will be one of libertarian decentralization
+of all economic activity, transactions and human interactions.
+Everything will end up on a public decentralized distributed permissionless trustless ledger; or better millions of ledgers on computers that are
+now already consuming more energy than Canada to verify and confirm
+transactions without the use of evil centralized institutions. This
+extreme right wing ideology of crypto has been studied in detail in the
+academic book by David Golumbia "The Politics of Bitcoin: Software As
+Right Wing Extremism". [^4]
+
+[^4]: See <https://www.upress.umn.edu/book-division/books/the-politics-of-bitcoin>
+
+But the reality is just the opposite: a bunch of self-serving greedy white
+men – very few women or minorities are allowed in the blockchain
+space – have pretended to create billions of wealth out of nowhere
+while pretending to care about billions of poor and unbanked human
+around the world. It is a total pretense as crypto-land is the most
+centralized scam in human history where greed for Lambos and
+ostentatious consumption is greater than any Gordon Gecko ever. 
+
+There are hundreds of stories of greedy crypto-criminals raising billions
+of dollars with scammy white papers that are nothing but vaporware 
+and then literally stealing these billions to buy Lambos, expensive cars,
+villas in the Caribbean and the French Riviera. These large scale
+criminals stealing dozens of billions make the small and petty Wolf of
+New York robbing small investors in criminal penny stock manipulation
+schemes looks an amateur. 
+
+But the most shameful of such near-criminals is a crypto guru –that was
+formerly investigated for pedophilia and who has put his home and
+operation – together with a group of crypto scammers - in Puerto Rico
+after a devastating hurricane that killed thousands and nearly
+destroyed the island. 
+
+Under the high-flatulent pretense of wanting to help the millions who
+lost homes and their livelihood to the hurricane by using "blockchain"
+and new crappy crypto-currencies these literal blood-suckers live in
+super-luxury mega mansions in the island and use the island's tax laws
+to enrich themselves and avoid paying their federal taxes. They are
+emblematic of a widespread crypto culture that shamelessly pretends
+to care about the billions of poor and unbanked just to enrich itself. At
+least the Wolf of New York had no pretense of wanting save the world,
+end global poverty and the tragic misery of a Puerto Rico devastated by
+a hurricane. 
+
 
 ## Decentralization is a myth: massive centralization and concentration of oligopolistic power and cartels among miners, exchanges, developers, wealth holders
 
