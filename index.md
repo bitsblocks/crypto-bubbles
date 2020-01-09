@@ -804,15 +804,123 @@ their hard-earned savings.
 
 ## Massive manipulation: pump 'n' dump, spoofing, wash trading, front running, exchanges conflicts of interest, tether scam
 
-...
+
+There is now massive evidence – from serious press investigations and
+academic studies – that the entire crypto-land is subject to massive,
+systematic and widespread price manipulation of every sort known in
+the annals of criminal manipulation: pump and dump schemes, wash
+trading, spoofing, front-running, serious conflicts of interest between
+exchanges and their customers, vast insider trading, creation of pseudo
+stable coins that are rather fiat crypto-currencies that are used only to
+prop up Bitcoin and other crypto-currencies. While price manipulation
+does occur in a variety of financial markets, there are strict laws against
+it and it is subject to draconian criminal prosecution; thus, it is the
+exception rather than the rule. While criminal price manipulation and
+insider trading is systemic in crypto land. For example, various
+investigations by the Wall Street Journal have shown that hundreds of
+criminal "pump and dump" chat rooms exist on the Telegram chap app
+that are aimed only at systematically manipulating the price of
+hundreds of crypto-currencies. [^13]
+
+[^13]: See <https://www.wsj.com/graphics/cryptocurrency-schemes-generate-big-coin/>
+
+
+In 2018 cryptocurrency values fell by 90% on average from their
+December peak. They would have collapsed much more had a
+vast [scheme](https://youtu.be/MwKYbT9MoPE) to prop up their price via [outright manipulation](https://coinreport.net/teetering-tether/) not been
+rapidly implemented. But, like in the case of the sub-prime bubble,
+most US regulators are still asleep at the wheel while having started
+investigations months ago.
+
+
+The mother of all manipulations in the crypto land is related to Tether
+and Bitfinex – a shady crypto exchange – that is its backer. Bitfinex -
+behind the scammy Tether – has persistently refused to be properly
+audited and has hopped on four continents changing every season the
+shady bank that provides it banking service linked to fiat dollars. And
+the supply of Tether is increased randomly – by hundreds of millions of
+chunks at a time via pure fiat - as a way to manipulate and prop up the
+value of Bitcoin and the entire related crypto-currency system. Tether
+has already created by fiat billions of dollars of a “stable coin” that has
+never been audited. The creation of fiat Tether has been systematically
+used to prop up manipulate upward the price of Bitcoin and other
+crypto-currencies according to a recent academic paper by a leading
+scholar at the University of Texas. Without such outright criminal
+manipulation the price of Bitcoin would now be about 80% lower than
+its current value, ie about $1200 rather than the current $6500. [^14]
+
+[^14]: See <https://www.bloomberg.com/news/articles/2018-06-13/professor-who-rang-vix-alarm-says-tether-used-toboost-bitcoin>
+
+
 
 ## No Killer App in Crypto/Blockchain After A Decade: Only Ponzi Schemes
 
-...
+Even supporters of crypto and blockchain do admit that there no killer
+app in Crypto or Blockchain even after a decade of developments and
+attempts. And as shown above the comparison with the early days of
+the internet is utter nonsense as the Internet had massive adoption and
+many early killer apps or websites. 
+
+The only think that Crypto/Blockchain is DAPPS or Distributed Apps. But
+recent studies show that 75% of the highly illiquid and bared used
+DAPPS are Krypto-Kitties, Pyramid and Ponzi schemes and Casino
+games. And the Ethereum community is doing nothing – literally
+nothing to stop or block such Ponzi games as it parasitically financially
+profits from them. The remaining 25% of DAPPS are decentralized
+exchanges that no one uses as 99% of all crypto trading occurs on
+centralized exchanges. So pretty much most DAPPS are scams or
+useless gimmick and their transaction volumes are close to zero. Pretty
+much no adoption of anything. So the comparison with early days of
+the Internet is nonsense. 
+
 
 ## The energy consumption of crypto is an environmental disaster
 
-...
+The environmental costs of the energy use of Bitcoin and other cryptocurrencies is so vast that has been correctly and repeatedly compared 
+to an environmental disaster. No need to repeat how such energy misuse and waste is massive – larger than the energy use per year of a midsized advanced economy. Such an environmental disaster has shamed
+even supporters of crypto who have become defensive given the
+embarrassing evidence of such energy costs and pollution.
+
+
+But now zealot supporters of crypto are pretending that this
+environmental disaster can be minimized or resolved soon. Since using
+millions of computers to do useless cryptographic games to secure the
+verification of crypto transactions is a useless waste of energy – as the
+same transactions could be reported at near zero energy costs on an
+single Excel spreadsheet – crypto zealots argue that such costs could be
+massively reduced if crypto moves from energy-hogging PoW to less
+energy-wasteful Proof of Stake. But as we discussed above in detail,
+scalability of crypto transactions via PoS will be massively concentrated
+in dangerous oligopolies – even more so than PoW – and therefore
+such centralization of mining power will lead to most severe problems
+of security. So, there is no free lunch here. Either crypto keeps on using
+energy-hogging and environmental-disaster PoW or it will become an
+insecure, centralized and dangerous system.
+
+The other argument made by crypto zealots is that other financial
+activities – such as gold mining or running the traditional financial
+system – hog a lot of energy. Those apologies are utter nonsense. The
+mining of gold or the provision of financial services produces value
+added and output to the economy that is 1000X than the pseudo value
+added of crypto mining. And financial services provide payment and
+other services to billions of people daily in hundreds of billions of daily
+transactions. So of course their use of energy will be larger than crypto.
+Crypto is used by 22 million folks globally – less than 5 million active
+ones today – and its entire market cap is 200 billion – not the 300
+trillion of global financial and real assets – and is producing value added 
+that is a few billions a year – new crypto mining. But its energy use cost
+is already about $5 billion a year. So comparing the energy use of
+useless, inefficient and tiny crypto to the services of financial
+institutions serving daily billions of people is utter nonsense of
+comparing apples and oranges or, better, crypto parasites with useful
+financial services (payments, credit, insurance, asset management,
+capital market services) used by billions. That is why a recent scholar
+has defined Bitcoin as being "as efficient as a lame hippopotamus with
+an hangover" [^15]
+
+[^15]: See <https://prestonbyrne.com/2018/10/05/bitcoin_hippo/>
+
+
 
 ## Blockchain is most overhyped technology ever, no better than a glorified spreadsheet or database
 
