@@ -521,11 +521,150 @@ a hurricane.
 
 ## Decentralization is a myth: massive centralization and concentration of oligopolistic power and cartels among miners, exchanges, developers, wealth holders
 
-...
+
+The reality is one of a massive centralization of power among miners,
+exchanges, developers and wealth holders, the total opposite of the lie
+of a decentralized system.
+
+First, miners are massively centralized as the top four among them
+control three quarters of mining and behave like any oligopolist: jacking
+up transaction costs to increase their fat profit margins. And when it
+comes to security most of these miners are in non-transparent and
+authoritarian countries such as Russia and China. So we are supposed
+not to trust central banks or banks when it comes to financial
+transactions but rather a bunch of shady anonymous concentrated
+oligopolists in jurisdictions where there is little rule of law?
+
+A recent study by a scholar at Princeton University is aptly titled "The
+Looming Threat of China: An Analysis of Chinese Influence on Bitcoin". [^5]
+In summary the conclusions of this paper are as follows: 
+
+> As Bitcoin's
+> popularity has grown over the decade since its creation, it has become
+> an increasingly attractive target for adversaries of all kinds. One of the
+> most powerful potential adversaries is the country of China, which has
+> expressed adversarial positions regarding the cryptocurrency and
+> demonstrated powerful capabilities to influence it. In this paper, we
+> explore how China threatens the security, stability, and viability of
+> Bitcoin through its dominant position in the Bitcoin ecosystem, political
+> and economic control over domestic activity, and control over its
+> domestic Internet infrastructure. We explore the relationship between
+> China and Bitcoin, document China's motivation to undermine Bitcoin,
+> and present a case study to demonstrate the strong influence that
+> China has over Bitcoin. Finally, we systematize the class of attacks that
+> China can deploy against Bitcoin to better understand the threat China
+> poses. We conclude that China has mature capabilities and strong
+> motives for performing a variety of attacks against Bitcoin.
+
+[^5]: See <https://arxiv.org/pdf/1810.02466.pdf>
+
+Everything that this study argues about the nefarious impact of China
+on Bitcoin can be said and applied to any other crypto-currency and to
+the role of Russia in the crypto eco-system.
+
+Second, all trading is centralized as 99% of all trading occurs on
+centralized exchanges while hundreds of decentralized exchanges have
+no trading, no liquidity are collapsing. And centralized exchanges are
+being hacked daily as there is not security in keeping crypto assets in a
+wallet; and once hacked your wealth is gone forever. 
+
+Third, development is centralized as Vitalik Buterin – creator of
+Ethereum – is named as "benevolent dictator for life". And there is
+nothing immutable in the "code is law" motto as the developers are
+police, prosecutors and judges: when something goes wrong in one of
+their buggy "smart" pseudo-contracts [^6] and massive hacking occurs,
+they simply change the code [^7] and "fork" a failing coin into another one
+by arbitrary fiat [^8]
+, revealing the entire "trustless" enterprise to have
+been untrustworthy from the start.
+
+[^6]: See: <https://davidgerard.co.uk/blockchain/ethereum-smart-contracts-in-practice/>
+
+[^7]: See: <https://www.coindesk.com/the-dao-bitcoin-development/>
+
+[^8]: See: <https://www.cbc.ca/news/technology/ethereum-hack-blockchain-fork-bitcoin-1.3719009>
+
+
+"Smart Contracts" are neither smart nor contracts. As a recent study
+has shown "smart contracts on Ethereum are worse than even nonfinancial commercial code; as of May 2016, Ethereum contracts
+averaged 100 obvious bugs (so obvious a machine could spot them) per
+1000 lines of code. (For comparison, Microsoft code averages 15 bugs
+per 1000 lines, NASA code around 0 per 500,000 lines.)" [^9]
+
+[^9]: See: <https://davidgerard.co.uk/blockchain/ethereum-smart-contracts-in-practice/>
+
+
+Fourth, wealth in crypto-land is more concentrated than in North Korea
+where the inequality Gini coefficient is 0.86 (it is 0.41 in the quite
+unequal US): the Gini coefficient for Bitcoin is an astonishing [0.88](https://www.businessinsider.com/bitcoin-inequality-2014-1).
+
+Quite a feat to create an asset class where inequality is greater than
+that of Kim Jong-un land. 
+
+So decentralization is just a total myth invented by a bunch of whales
+whose wealth is fake; now that the retail suckers who bought at the
+peak have literally lost their shirts these crypto "whales" are fake
+billionaires as liquefying their wealth would crash the price of the
+"asset" to zero. 
+
 
 ## Crypto is not the internet nor will ever be
 
-...
+> Blockchain's boosters would argue that its early days resemble the
+> early days of the Internet, before it had commercial applications.
+> But that comparison is simply false. Whereas the Internet quickly
+> gave rise to email, the World Wide Web, and millions of viable commercial
+> ventures used by billions of people in less than a decade,
+> cryptocurrencies such as Bitcoin do not even fulfill their own
+> stated purpose.
+>
+>  -- [Blockchain's Broken Promises](https://www.project-syndicate.org/commentary/why-bitcoin-is-a-bubble-by-nouriel-roubini-2018-01)
+
+
+The comparison with the early days of the internet is non-sense as even
+the early internet in the early 1990s saw a rapid boom of applications
+and explosion of user adoption: email became widespread and
+thousands of useful website used by millions of people for useful
+purpose sprang overnight. The boom in web sites creation was so vast,
+rapid and massive that early on directories of such web site – such as
+the start of Yahoo – and search engines became necessary to navigate
+the richness of information of the World Wide Web (WWW). 
+
+The WWW went live in 1991 and by 2000 – nine years later - it already
+had 738 million users; and by 2015 the number of users was 3.5 billion.
+
+Crypto has been around for over a decade now and in 2018 the number
+of crypto wallets was only 22 million and out of this figure the number
+of active bitcoin users is only between 2.9 and 5.9 million and falling.
+And the number of crypto transactions has collapsed by at least 75%
+between 2017 and 2018.
+
+Successful new technologies have a few key features: exponential
+increase of the number of users, exponential increase of the number of
+transaction, sharp and persistent fall of transaction costs. That is the
+history of the internet – almost one billion users in a decade since start
+and billions of billions of transactions in the first decade – and is also
+the history of financial markets where trading activity – say in equity
+markets – includes an exponential increase in users, exponential and
+permanent increase in number of transactions and a sharp fall in
+transaction costs (as measured by falling bid-ask spreads and by the
+collapse of brokers' fee for equity transactions).
+
+Crypto land is just the opposite: the number of users in a decade is still
+barely 22 million globally and, after the bust of crypto in 2018, the
+active users are a fraction of that number; the number of transactions
+on crypto exchanges in 2018 has collapsed and is down between 75%
+and 80%; same for the size of transaction values given the collapse of
+crypto asset prices; and transaction costs are surging through the roof
+rather than falling as measured by the total value of miners revenue as
+a share of the number of transactions. And after over a decade crypto
+land has not a single killer app. 
+
+So crypto and blockchain are not like the early years of the internet that
+was booming in every dimension in its first decade; it is instead literally
+collapsing and imploding in every possible dimension. It is a failing set
+of technologies.
+
 
 ## ICOs are not compliant securities when they aren't outright scams
 
