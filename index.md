@@ -258,11 +258,116 @@ widespread.
 
 ## The real revolution in financial services is FinTech and it has nothing to do with Blockchain or Crypto
 
-...
+
+The financial-services industry has been undergoing a revolution. But
+the driving force is not [overhyped blockchain](https://medium.com/@pavelkravchenko/decline-of-blockchain-hype-and-rise-of-a-common-sense-8de5789a794d) applications such as
+Bitcoin. It is a revolution built on artificial intelligence, big data, and the
+Internet of Things.
+
+Already, thousands of real businesses are using these technologies to
+disrupt every aspect of financial intermediation. Dozens of onlinepayment services – PayPal, Venmo, Square and so forth – have
+hundreds of millions of daily users in the US. Billions more use similar
+low cost, efficient digital payment systems all over the world: Alypay
+and WeChat Pay in China; UPI-based systems in India; M-Pesa in Kenya
+and Africa. And financial institutions are making precise lending
+decisions in seconds rather than weeks, thanks to a wealth of online 
+data on individuals and firms. With time, such data-driven
+improvements in credit allocation could even eliminate cyclical creditdriven booms and busts.
+
+Similarly, insurance underwriting, claims assessment and management,
+and fraud monitoring have all become faster and more precise. And
+actively managed portfolios are increasingly being replaced by passive
+robo-advisers, which can perform just as well or better than conflicted,
+high-fee financial advisers.
+
+Now, compare this real and ongoing fintech revolution that has nothing
+to do with blockchain or crypto-currencies with the record of
+blockchain, which has existed for almost a decade, and still has only
+one failing and imploding application: cryptocurrencies.
+
+
 
 ## Buterin's inconsistent trinity: crypto is not scalable, is not decentralized, is not secure
 
-...
+
+There is a deeper fundamental flaw and inconsistency in the
+crypto/blockchain space. As Vitalik Buterin correctly wrote a while ago
+there is a fundamental "inconsistent trinity" in blockchain: you cannot
+have at the same time scalability, decentralization and security. 
+
+Bitcoin, for example, is partially decentralized – even if its mining is now
+massively centralized – but it is not scalable given its proof of work
+(PoW) authentication mechanism – that allows only for 5 to 7
+transactions a second. And it is secure – so far – but at the cost of no
+scalability. And since its mining is now massively centralized – as an
+oligopoly of miners now control its mining – its security is at risk. 
+
+Supporters of crypto have been promising forever – Buterin spoke of
+Proof of Stake (PoS) in 2013 – systems that are vastly scalable. But 
+leaving aside that PoS is not live yet and Ethereum is still based on
+PoW, the reality is that once Proof of Stake is properly launched it will
+be massively centralized and thus not secure. The whole logic of PoS is
+to give greater voting power to those who have a stake in a coin – those
+who own it the most and mine it the most. But that leads to a massive
+centralization problem. Even Bitcoin that is based on PoW has seen a
+massive centralization and concentration of mining power in a small
+oligopolistic group. This problem of concentration of mining power
+among an oligopoly becomes much worse with PoS as those with
+greater initial stake – and Ethereum is massively concentrated in
+ownership of ETH – will get a greater stake over time. So the problems
+of oligopolistic cartelization of mining power that is already very serious
+in PoW will become exponentially worse in PoS. 
+
+More generally, while cryptography scientists are busy inventing every
+day another "consensus" mechanism and there are dozens of new ones
+after PoW and PoS and their variant the reality is that – given Buterin’s
+inconsistent trinity it will never be possible to create a consensus
+mechanism that is scalable while also being decentralized and secure. 
+
+One solution to the problem of scalability is to use many alt-coins
+rather than increasing the block size of each blockchain; but that
+solution is highly inefficient and is not secure. A second solution is to
+increase the block size; but then nodes running on a smaller computer
+or laptop would drop out of the system as they will not be able to store
+every transaction or state. So you would end up relying on a small
+number of super-computers for running the blockchain; so you end up
+with an oligopoly with market power, concentration and lack of
+security. A third solution is where most of the crypto industry is trying
+to go, ie merge mining and variant of proof of stake. In this system
+there are many chains but all such chains share the same mining power
+or stake. But this approach increases the computational and storage 
+demands on each miner by a massive factor that most miners will not
+be able to support. So this solution is a backdoor way of increasing the
+size of the blocks. Thus, it leads to only very few powerful miners to
+participate into this proof of stake, ie participating in merge-mining
+each chain. So it leads again to centralization, oligopolies of mining and
+thus lack of security. 
+
+Whichever way you try to slice it blockchain leads to centralization and
+lack of security. And this fundamental problem when you try scalability
+will never be resolved. Thus, no decentralized blockchain will ever be
+able to achieve scalability that is critical to make it useful for large scale
+financial or any other type of transactions. Indeed, even those
+blockchains that do not have any scalability, like Bitcoin and those
+based on PoW, have massive mining concentration problems. The
+nature of mining implies that any form of mining has economies of
+scale that require massive scale – think of the massive energy hogging
+mining factories of crypto-land – and lead to massive oligopolistic
+concentration of power and lack of security. 
+
+With the centralization of power comes a serious problem of lack of
+security, starting with 51% attacks. Supporters of crypto argue that it
+would not be in the interest of an oligopoly of miners to start a 51% as
+it would destroy their source of income/fees. But leaving aside that
+such an attack would allow them to steal the underlying assets - worth
+is some cases dozens of billions of dollars as in the case of BTC. The
+main problem is any oligopolistic cartel will end up behaving like an
+oligopoly: using its market power to jack up prices, fees for transactions
+and increase its profit margins. Indeed, as concentration of mining has
+increased over the last year transaction costs of crypto – as measured
+by miners’ fees divided by number of transactions – have skyrocketed. 
+
+
 
 ## No security in crypto-currencies
 
