@@ -217,7 +217,44 @@ prop up manipulate upward the price of Bitcoin and other cryptocurrencies accord
 
 ## Financial crises occurred well before fiat currencies and central banking; and are now less virulent thanks to central banks and fiat money.
 
-...
+
+Another totally false argument is that asset and credit bubbles are
+caused by central banks and the existence of fiat currencies. Any
+student of financial crises knows that asset and credit bubbles were
+widespread before fiat currencies and central banks were created; see
+for example Tulipmania, the Mississipi Bubble and the South Sea
+Bubble. These bubbles and their busts were frequent, virulent and had
+massive economic and financial costs including severe recessions,
+deflations, defaults and financial crisis.
+
+Central banks – instead – were initially created not to provide goods
+price stability but rather to provide financial stability and avoid
+the destructive bank, sovereign and currency runs that do occur when a
+bubble goes bust. Indeed, the Fed was created in 1913 when the last of
+many bubbles gone bust that had caused massive bank runs led to the
+realization that an institution that could provide with lender of last
+resort to the financial system was needed. That and the creation of
+deposit insurance after the Great Depression is the reason why bank
+runs are so rare. And the purpose of fiat currencies whose supply is
+regulated by credible and independent central bank is to reduce the
+frequency, virulence and severity of economic recessions, deflations
+and asset and credit bubbles gone bust. And indeed the economic and
+financial history of US and other countries shows that severe economic
+recessions, depressions, deflations and financial crises are less frequent
+and less costly after the creation of fiat currencies and central banks.
+
+Crypto-currencies instead have not and will never have the tools to
+pursue economic and financial stability. The few like Bitcoin whose
+supply is truly constrained by an arbitrary mathematical rule will never
+be able to stabilize recessions, deflations and financial crises; they will
+rather lead to permanent and pernicious deflation. While the rest –
+99% - have an arbitrary supply generation mechanism that is worse
+than any fiat currency and, at the same time, will never be able to
+provide either economic or price or financial stability. They will rather
+be tools of massive financial instability if their use were to become
+widespread.
+
+
 
 ## The real revolution in financial services is FinTech and it has nothing to do with Blockchain or Crypto
 
