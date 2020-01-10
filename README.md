@@ -1,3 +1,9 @@
+
+See the live version @ [`bitsblocks.github.io/crypto-bubbles`](http://bitsblocks.github.io/crypto-bubbles)
+
+---
+
+
 Testimony for the Hearing of the US Senate Committee on Banking,
 Housing and Community Affairs On
 "Exploring the Cryptocurrency and Blockchain Ecosystem"
