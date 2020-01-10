@@ -44,13 +44,7 @@ then. And a 70% capital loss was a "good" deal compared to thousands
 of alt-coins (otherwise better known as shitcoins) that have lost on
 average 95% of their value since the peak. Actually calling this useless
 vaporware garbage a "shitcoin" is a grave insult to manure that is a
-most useful, precious and productive good as a fertilizer in agriculture.[^1]
-
-[^1]: My apologies to the members of the Senate Banking Committee for using the scatological term "shitcoin" but the
-term is standard in the crypto jargon and there are more than 500000 references to it in a Google search of this
-technical term. See: <https://www.google.com/search?q=shitcoin>
-
-
+most useful, precious and productive good as a fertilizer in agriculture.[1]
 
 Now that the crypto bloodbath is in full view the new refuge of the
 crypto scoundrels is "blockchain", the technology underlying crypto
@@ -74,14 +68,11 @@ this 8% the top 10 coins traded – after Bitcoin – have lost between 83%
 and 95% of their value since peak with an average loss of over 90%. This
 is a true Crypt-Apocalypse. No wonder that a recent study this week
 argued and conclude that the crypto industry is on the "brink of an
-implosion".[^2]
+implosion".[2]
 
 No asset class in human history has ever experienced such a rapid
 boom and total utter bust and implosion that includes thousands of
 different crypto-assets.
-
-[^2]: See: <https://www.newsbtc.com/2018/10/09/juniper-research-the-crypto-industry-is-on-the-brink-of-an-implosion/>
-
 
 
 ## Crypto is not money, not scalable
@@ -101,7 +92,7 @@ no one will ever use them.
 As is typical of a financial bubble, investors were buying
 cryptocurrencies not to use in transactions, but because they expected
 them to increase in value. Indeed, if someone actually wanted to use
-Bitcoin, they would have a hard time doing so. It is so 
+Bitcoin, they would have a hard time doing so. It is so
 [energy-intensive (and thus environmentally toxic) to produce](https://www.nytimes.com/2018/01/21/technology/bitcoin-mining-energy-consumption.html), and carries such high
 transaction costs, that even Bitcoin conferences [do not accept it](https://slate.com/technology/2018/01/the-most-important-blockchain-conference-of-the-year-wont-take-bitcoin-for-last-minute-sales.html) as a
 valid form of payment. Paying $55 dollars of transaction costs to buy a
@@ -116,7 +107,7 @@ working together to regulate cryptocurrencies and eliminate the
 anonymity they supposedly afford, by requiring that all income - or
 capital-gains-generating transactions be reported. Even the US Treasury
 Secretary Steve Mnuchin has publicly stated that we cannot allow
-crypto-currencies to become the next Swiss bank account. 
+crypto-currencies to become the next Swiss bank account.
 
 Since the invention of money thousands of years ago, there has never
 been a monetary system with hundreds of different currencies
@@ -162,9 +153,9 @@ monetary policies, the inflation rate has systematically undershot its 2%
 target.
 
 Instead 99.9% all crypto-currencies instead have no backing whatsoever
-of any sort and have no intrinsic value of any sort; and even the socalled "stable coins" have only partial backing at best with true US
+of any sort and have no intrinsic value of any sort; and even the so called "stable coins" have only partial backing at best with true US
 dollars reserves or, like Tether, most likely no backing at all as there has
-never been a proper audit of their accounts. 
+never been a proper audit of their accounts.
 
 As it happens, Bitcoin's supposed advantage is also its Achilles's heel,
 because even if it actually did have a steady-state supply of 21 million
@@ -174,7 +165,7 @@ a currency tracks potential nominal GDP, prices will undergo deflation.
 That means if a steady - state supply of Bitcoin really did gradually
 replace a fiat currency, the price index of all goods and services would
 continuously fall. By extension, any nominal debt contract denominated
-in Bitcoin would rise in real value over time, leading to the kind of debt 
+in Bitcoin would rise in real value over time, leading to the kind of debt
 deflation that economist Irving Fisher believed [precipitated](https://campus.fsu.edu/bbcswebdav/users/jcalhoun/Courses/Growth_of_American_Economy/Chapter_Supplemental_Readings/Chapter_23/Fisher-The_Debt_Deflation_Theory.pdf) the Great
 Depression. At the same time, nominal wages in Bitcoin would increase
 forever in real terms, regardless of productivity growth, adding further
@@ -188,7 +179,7 @@ several branches and spin-offs: Bitcoin Cash and Bitcoin Gold. Ditto for
 the various forks and spin-off of Ether from the Ethereum cartel. It took
 a century for Coca Cola to create the new Coke and call the old one
 Coke Classic. But it took three years to Ethereum to dump the first ETH
-into Ethereum Classic and create and brand new spin-off, ETH. 
+into Ethereum Classic and create and brand new spin-off, ETH.
 
 Moreover, hundreds of other cryptocurrencies are invented every day,
 alongside scams known as "initial coin offerings," which are mostly
@@ -197,26 +188,23 @@ debased every day by pure fiat and in the most arbitrary way. So
 crypto-currencies are creating crypto money supply and debasing it at a
 much faster pace than any major central bank ever has. No wonder that
 the average crypto-currency has lost 95% of its value in a matter of a
-year. 
+year.
 
 At least in the case of Bitcoin the increase in supply is controlled by a
 rigorous mining process and the supply is capped – at the limit – to 21
 million bitcoins. Instead, most other alt-coins starting with the leading
 ETH, have an arbitrary supply that was created via pre-mining and presale; and the change of supply of that and thousands of other cryptocurrencies is now subject to arbitrary decision of self-appointed
-"central bankers". 
+"central bankers".
 
 And the biggest scam of all is the case of "stable coins" – starting with
-Tether – that claimed to be pegged one to one to the US dollar but are 
+Tether – that claimed to be pegged one to one to the US dollar but are
 not fully collateralized by an equal backing of true US dollars. Bitfinex -
 behind the scammy Tether – has persistently refused to be properly
 audited and its creation of fiat Tether has been systematically used to
-prop up manipulate upward the price of Bitcoin and other cryptocurrencies according to a recent academic paper. [^3]
-
-[^3]: See: <https://www.bloomberg.com/news/articles/2018-06-13/professor-who-rang-vix-alarm-says-tether-used-toboost-bitcoin>
+prop up manipulate upward the price of Bitcoin and other cryptocurrencies according to a recent academic paper. [3]
 
 
 ## Financial crises occurred well before fiat currencies and central banking; and are now less virulent thanks to central banks and fiat money.
-
 
 Another totally false argument is that asset and credit bubbles are
 caused by central banks and the existence of fiat currencies. Any
@@ -258,21 +246,21 @@ widespread.
 
 ## The real revolution in financial services is FinTech and it has nothing to do with Blockchain or Crypto
 
-
 The financial-services industry has been undergoing a revolution. But
 the driving force is not [overhyped blockchain](https://medium.com/@pavelkravchenko/decline-of-blockchain-hype-and-rise-of-a-common-sense-8de5789a794d) applications such as
 Bitcoin. It is a revolution built on artificial intelligence, big data, and the
 Internet of Things.
 
 Already, thousands of real businesses are using these technologies to
-disrupt every aspect of financial intermediation. Dozens of onlinepayment services – PayPal, Venmo, Square and so forth – have
+disrupt every aspect of financial intermediation. Dozens of online-payment services – PayPal, Venmo, Square and so forth – have
 hundreds of millions of daily users in the US. Billions more use similar
 low cost, efficient digital payment systems all over the world: Alypay
 and WeChat Pay in China; UPI-based systems in India; M-Pesa in Kenya
 and Africa. And financial institutions are making precise lending
-decisions in seconds rather than weeks, thanks to a wealth of online 
+decisions in seconds rather than weeks, thanks to a wealth of online
 data on individuals and firms. With time, such data-driven
-improvements in credit allocation could even eliminate cyclical creditdriven booms and busts.
+improvements in credit allocation could even eliminate cyclical
+credit-driven booms and busts.
 
 Similarly, insurance underwriting, claims assessment and management,
 and fraud monitoring have all become faster and more precise. And
@@ -289,21 +277,20 @@ one failing and imploding application: cryptocurrencies.
 
 ## Buterin's inconsistent trinity: crypto is not scalable, is not decentralized, is not secure
 
-
 There is a deeper fundamental flaw and inconsistency in the
 crypto/blockchain space. As Vitalik Buterin correctly wrote a while ago
 there is a fundamental "inconsistent trinity" in blockchain: you cannot
-have at the same time scalability, decentralization and security. 
+have at the same time scalability, decentralization and security.
 
 Bitcoin, for example, is partially decentralized – even if its mining is now
 massively centralized – but it is not scalable given its proof of work
 (PoW) authentication mechanism – that allows only for 5 to 7
 transactions a second. And it is secure – so far – but at the cost of no
 scalability. And since its mining is now massively centralized – as an
-oligopoly of miners now control its mining – its security is at risk. 
+oligopoly of miners now control its mining – its security is at risk.
 
 Supporters of crypto have been promising forever – Buterin spoke of
-Proof of Stake (PoS) in 2013 – systems that are vastly scalable. But 
+Proof of Stake (PoS) in 2013 – systems that are vastly scalable. But
 leaving aside that PoS is not live yet and Ethereum is still based on
 PoW, the reality is that once Proof of Stake is properly launched it will
 be massively centralized and thus not secure. The whole logic of PoS is
@@ -316,13 +303,13 @@ among an oligopoly becomes much worse with PoS as those with
 greater initial stake – and Ethereum is massively concentrated in
 ownership of ETH – will get a greater stake over time. So the problems
 of oligopolistic cartelization of mining power that is already very serious
-in PoW will become exponentially worse in PoS. 
+in PoW will become exponentially worse in PoS.
 
 More generally, while cryptography scientists are busy inventing every
 day another "consensus" mechanism and there are dozens of new ones
-after PoW and PoS and their variant the reality is that – given Buterin’s
+after PoW and PoS and their variant the reality is that – given Buterin's
 inconsistent trinity it will never be possible to create a consensus
-mechanism that is scalable while also being decentralized and secure. 
+mechanism that is scalable while also being decentralized and secure.
 
 One solution to the problem of scalability is to use many alt-coins
 rather than increasing the block size of each blockchain; but that
@@ -335,13 +322,13 @@ with an oligopoly with market power, concentration and lack of
 security. A third solution is where most of the crypto industry is trying
 to go, ie merge mining and variant of proof of stake. In this system
 there are many chains but all such chains share the same mining power
-or stake. But this approach increases the computational and storage 
+or stake. But this approach increases the computational and storage
 demands on each miner by a massive factor that most miners will not
 be able to support. So this solution is a backdoor way of increasing the
 size of the blocks. Thus, it leads to only very few powerful miners to
 participate into this proof of stake, ie participating in merge-mining
 each chain. So it leads again to centralization, oligopolies of mining and
-thus lack of security. 
+thus lack of security.
 
 Whichever way you try to slice it blockchain leads to centralization and
 lack of security. And this fundamental problem when you try scalability
@@ -353,7 +340,7 @@ based on PoW, have massive mining concentration problems. The
 nature of mining implies that any form of mining has economies of
 scale that require massive scale – think of the massive energy hogging
 mining factories of crypto-land – and lead to massive oligopolistic
-concentration of power and lack of security. 
+concentration of power and lack of security.
 
 With the centralization of power comes a serious problem of lack of
 security, starting with 51% attacks. Supporters of crypto argue that it
@@ -365,7 +352,7 @@ main problem is any oligopolistic cartel will end up behaving like an
 oligopoly: using its market power to jack up prices, fees for transactions
 and increase its profit margins. Indeed, as concentration of mining has
 increased over the last year transaction costs of crypto – as measured
-by miners’ fees divided by number of transactions – have skyrocketed. 
+by miners' fees divided by number of transactions – have skyrocketed.
 
 
 
@@ -383,7 +370,7 @@ smaller coins with a small market capitalization you don’t even need a
 cap is low a few hundreds of thousands of dollars – or at best a couple
 of millions – are sufficient to mount a successful 51% attack whose gain
 is a 10 to 20X multiple of the cost of the attack. No wonder that dozens
-of successful 51% attack have occurred recently against smaller cryptocurrencies. 
+of successful 51% attack have occurred recently against smaller cryptocurrencies.
 
 Fundamental flaws of lack of security in crypto land go well beyond the
 fact that mining is highly concentrated in oligopolies in shady and nontransparent and unsecure jurisdictions – China, Russia, Belarus,
@@ -395,7 +382,7 @@ land. Conventional payment systems based on fiat currencies, central
 banks and private banks are scalable and secure but centralized; so
 they resolve Buterin's inconsistent trinity principle by giving up
 decentralization and relying on trusted permissioned authorities to
-resolve the "double spend" problem. 
+resolve the "double spend" problem.
 
 Instead, blockchains and cryptocurrencies not only are not scalable and
 are massively centralized; they are also massively not secure.
@@ -429,9 +416,9 @@ more. The vast hacking of centralized exchanges has led to the
 developments of dozens of decentralized exchanges (DEX) but 99% of
 all trading is on centralized exchanges and some security flaws of DEX
 imply that even the so called "secure" DEX are not secure at all. Once a
-hacker steals your private key - whether it is stored on an online wallet, 
+hacker steals your private key - whether it is stored on an online wallet,
 laptop, phone, computer or tablet or centralized exchange your crypto
-wealth is stolen and gone forever. 
+wealth is stolen and gone forever.
 
 Given these massive security problems of crypto the solutions to these
 severe security problems are all variants of going back to the stone age:
@@ -446,7 +433,7 @@ such stone age security solutions the implication becomes that your
 crypto wealth – hidden in deep cold storage – cannot be easily traded
 or used for transactions of any sort. This is the contemporary
 equivalent of mining gold deep from the ground and then hiding it in
-the form of gold ingots back deep in the ground. 
+the form of gold ingots back deep in the ground.
 
 Even such security solutions are not safe: criminals who know that
 access to your private key is access to your entire crypto wealth forever
@@ -461,7 +448,7 @@ criminal security problems: even if a robber forces you at gunpoint to
 reveal the pin of your ATM card the amount of cash that can be
 withdrawn is limited to a small amount; similarly wire transfer of a
 significant size are subject to various forms of identity verification. o
-there is no way that your entire wealth can be stolen with a click as it 
+there is no way that your entire wealth can be stolen with a click as it
 happens daily in crypto land. While crypto relies on stone age
 technologies and cannot even resolve such security problems.
 
@@ -472,7 +459,7 @@ Blockchain's ideology is politically born out of the same mentality as
 libertarian right wing conspiracies or extreme left anarchism: all
 governments, central banks, moneys, institutions, banks, corporations,
 entities with reputation and credibility build over centuries are evil
-centralized concentrations of power that literally need to be destroyed. 
+centralized concentrations of power that literally need to be destroyed.
 
 So the utopian crypto future will be one of libertarian decentralization
 of all economic activity, transactions and human interactions.
@@ -481,9 +468,7 @@ now already consuming more energy than Canada to verify and confirm
 transactions without the use of evil centralized institutions. This
 extreme right wing ideology of crypto has been studied in detail in the
 academic book by David Golumbia "The Politics of Bitcoin: Software As
-Right Wing Extremism". [^4]
-
-[^4]: See <https://www.upress.umn.edu/book-division/books/the-politics-of-bitcoin>
+Right Wing Extremism". [4]
 
 But the reality is just the opposite: a bunch of self-serving greedy white
 men – very few women or minorities are allowed in the blockchain
@@ -491,21 +476,21 @@ space – have pretended to create billions of wealth out of nowhere
 while pretending to care about billions of poor and unbanked human
 around the world. It is a total pretense as crypto-land is the most
 centralized scam in human history where greed for Lambos and
-ostentatious consumption is greater than any Gordon Gecko ever. 
+ostentatious consumption is greater than any Gordon Gecko ever.
 
 There are hundreds of stories of greedy crypto-criminals raising billions
-of dollars with scammy white papers that are nothing but vaporware 
+of dollars with scammy white papers that are nothing but vaporware
 and then literally stealing these billions to buy Lambos, expensive cars,
 villas in the Caribbean and the French Riviera. These large scale
 criminals stealing dozens of billions make the small and petty Wolf of
 New York robbing small investors in criminal penny stock manipulation
-schemes looks an amateur. 
+schemes looks an amateur.
 
-But the most shameful of such near-criminals is a crypto guru –that was
+But the most shameful of such near-criminals is a crypto guru – that was
 formerly investigated for pedophilia and who has put his home and
 operation – together with a group of crypto scammers - in Puerto Rico
 after a devastating hurricane that killed thousands and nearly
-destroyed the island. 
+destroyed the island.
 
 Under the high-flatulent pretense of wanting to help the millions who
 lost homes and their livelihood to the hurricane by using "blockchain"
@@ -516,11 +501,10 @@ emblematic of a widespread crypto culture that shamelessly pretends
 to care about the billions of poor and unbanked just to enrich itself. At
 least the Wolf of New York had no pretense of wanting save the world,
 end global poverty and the tragic misery of a Puerto Rico devastated by
-a hurricane. 
+a hurricane.
 
 
 ## Decentralization is a myth: massive centralization and concentration of oligopolistic power and cartels among miners, exchanges, developers, wealth holders
-
 
 The reality is one of a massive centralization of power among miners,
 exchanges, developers and wealth holders, the total opposite of the lie
@@ -536,8 +520,8 @@ transactions but rather a bunch of shady anonymous concentrated
 oligopolists in jurisdictions where there is little rule of law?
 
 A recent study by a scholar at Princeton University is aptly titled "The
-Looming Threat of China: An Analysis of Chinese Influence on Bitcoin". [^5]
-In summary the conclusions of this paper are as follows: 
+Looming Threat of China: An Analysis of Chinese Influence on Bitcoin". [5]
+In summary the conclusions of this paper are as follows:
 
 > As Bitcoin's
 > popularity has grown over the decade since its creation, it has become
@@ -556,8 +540,6 @@ In summary the conclusions of this paper are as follows:
 > poses. We conclude that China has mature capabilities and strong
 > motives for performing a variety of attacks against Bitcoin.
 
-[^5]: See <https://arxiv.org/pdf/1810.02466.pdf>
-
 Everything that this study argues about the nefarious impact of China
 on Bitcoin can be said and applied to any other crypto-currency and to
 the role of Russia in the crypto eco-system.
@@ -566,46 +548,35 @@ Second, all trading is centralized as 99% of all trading occurs on
 centralized exchanges while hundreds of decentralized exchanges have
 no trading, no liquidity are collapsing. And centralized exchanges are
 being hacked daily as there is not security in keeping crypto assets in a
-wallet; and once hacked your wealth is gone forever. 
+wallet; and once hacked your wealth is gone forever.
 
 Third, development is centralized as Vitalik Buterin – creator of
 Ethereum – is named as "benevolent dictator for life". And there is
 nothing immutable in the "code is law" motto as the developers are
 police, prosecutors and judges: when something goes wrong in one of
-their buggy "smart" pseudo-contracts [^6] and massive hacking occurs,
-they simply change the code [^7] and "fork" a failing coin into another one
-by arbitrary fiat [^8]
-, revealing the entire "trustless" enterprise to have
+their buggy "smart" pseudo-contracts [6] and massive hacking occurs,
+they simply change the code [7] and "fork" a failing coin into another one
+by arbitrary fiat [8], revealing the entire "trustless" enterprise to have
 been untrustworthy from the start.
-
-[^6]: See: <https://davidgerard.co.uk/blockchain/ethereum-smart-contracts-in-practice/>
-
-[^7]: See: <https://www.coindesk.com/the-dao-bitcoin-development/>
-
-[^8]: See: <https://www.cbc.ca/news/technology/ethereum-hack-blockchain-fork-bitcoin-1.3719009>
-
 
 "Smart Contracts" are neither smart nor contracts. As a recent study
 has shown "smart contracts on Ethereum are worse than even nonfinancial commercial code; as of May 2016, Ethereum contracts
 averaged 100 obvious bugs (so obvious a machine could spot them) per
 1000 lines of code. (For comparison, Microsoft code averages 15 bugs
-per 1000 lines, NASA code around 0 per 500,000 lines.)" [^9]
-
-[^9]: See: <https://davidgerard.co.uk/blockchain/ethereum-smart-contracts-in-practice/>
-
+per 1000 lines, NASA code around 0 per 500,000 lines.)" [9]
 
 Fourth, wealth in crypto-land is more concentrated than in North Korea
 where the inequality Gini coefficient is 0.86 (it is 0.41 in the quite
 unequal US): the Gini coefficient for Bitcoin is an astonishing [0.88](https://www.businessinsider.com/bitcoin-inequality-2014-1).
 
 Quite a feat to create an asset class where inequality is greater than
-that of Kim Jong-un land. 
+that of Kim Jong-un land.
 
 So decentralization is just a total myth invented by a bunch of whales
 whose wealth is fake; now that the retail suckers who bought at the
 peak have literally lost their shirts these crypto "whales" are fake
 billionaires as liquefying their wealth would crash the price of the
-"asset" to zero. 
+"asset" to zero.
 
 
 ## Crypto is not the internet nor will ever be
@@ -628,7 +599,7 @@ thousands of useful website used by millions of people for useful
 purpose sprang overnight. The boom in web sites creation was so vast,
 rapid and massive that early on directories of such web site – such as
 the start of Yahoo – and search engines became necessary to navigate
-the richness of information of the World Wide Web (WWW). 
+the richness of information of the World Wide Web (WWW).
 
 The WWW went live in 1991 and by 2000 – nine years later - it already
 had 738 million users; and by 2015 the number of users was 3.5 billion.
@@ -658,7 +629,7 @@ and 80%; same for the size of transaction values given the collapse of
 crypto asset prices; and transaction costs are surging through the roof
 rather than falling as measured by the total value of miners revenue as
 a share of the number of transactions. And after over a decade crypto
-land has not a single killer app. 
+land has not a single killer app.
 
 So crypto and blockchain are not like the early years of the internet that
 was booming in every dimension in its first decade; it is instead literally
@@ -668,14 +639,11 @@ of technologies.
 
 ## ICOs are not compliant securities when they aren't outright scams
 
-
-
 Initial coin offerings have become the most common way to finance
 cryptocurrency ventures, of which there are now [nearly 1,600](https://coinmarketcap.com/all/views/all/) and
 rising. In exchange for your dollars, pounds, euros, or other currency,
 an ICO issues digital "tokens," or "coins," that may or may not be used
 to purchase some specified good or service in the future.
-
 
 Thus it is little wonder that, according to the ICO advisory firm Satis
 Group, [81% of ICOs are scams](https://medium.com/satis-group/cryptoasset-market-update-b678aeda4c5e) created by con artists, charlatans, and
@@ -685,13 +653,11 @@ meaning that 92% of them failed. It would appear that ICOs serve little
 purpose other than to skirt securities laws that exist to protect
 investors from being cheated.
 
-
 If you invest in a conventional (non-crypto) business, you are afforded a
 variety of legal rights – to dividends if you are a shareholder, to interest
 if you are a lender, and to a share of the enterprise's assets should it
 default or become insolvent. Such rights are enforceable because
 securities and their issuers must be registered with the state.
-
 
 Moreover, in legitimate investment transactions, issuers are required
 to disclose accurate financial information, business plans, and potential
@@ -701,41 +667,31 @@ tax evasion, concealment of ill-gotten gains, and other criminal
 activities such as the financing of terrorism.
 
 In the Wild West of ICOs, most cryptocurrencies are issued in breach of
-these laws and regulations, under the pretense that they are not 
-securities at all but rather "security tokens" [^10]. Hence, most ICOs deny
+these laws and regulations, under the pretense that they are not
+securities at all but rather "security tokens" [10]. Hence, most ICOs deny
 investors any legal rights whatsoever. They are generally accompanied
 by vaporous "white papers" instead of concrete business plans. Their
 issuers are often anonymous and untraceable. And they skirt all AML
 and KYC regulations, leaving the door open to any criminal investor.
-
-[^10]: We will discuss below the other scam of so-called "utility token".
-
 
 Jay Clayton, the chairman of US Securities and Exchange Commission,
 recently [made it clear](https://finance.yahoo.com/news/sec-ico-tokens-regulated-securities-205650102.html) that he regards all cryptocurrencies as securities,
 with the exception of the first mover, Bitcoin, which he considers a
 commodity. The implication is that even Ethereum and Ripple – the
 second- and third-largest crypto-assets – are currently operating as
-unregistered securities [^11]. Gary Gensler, a former chairman of the
+unregistered securities [11]. Gary Gensler, a former chairman of the
 Commodities and Futures Trading Commission who now teaches a
 course on [blockchain](https://www.project-syndicate.org/commentary/blockchain-technology-limited-applications-by-nouriel-roubini-and-preston-byrne-2018-03) (the technology underlying cryptocurrencies) at
 MIT, has also [suggested](https://www.bloomberg.com/news/articles/2018-04-23/ether-ripple-may-be-securities-former-cftc-head-gensler-says) as much.
 
-
-[^11]: A legal scholar such as Preston Byrne has shown that Ripple Labs has created XRP; see <https://prestonbyrne.com/2018/09/20/for-the-last-time-ripple-created-xrp/>
-
-
 And legal scholars such as Preston Byrne have not only confirmed that
-they Ether was created makes it a clear security. [^12] They have also
+they Ether was created makes it a clear security. [12] They have also
 shown that the creation of Ethereum may have been a criminal insider
 con job where a small group of whale – starting with the billionaires
 who created this scheme – pretended to make a market-based "presale" of Ether but they instead sold to themselves – most likely at
 bargain basement prices – a great fraction of the ETH created in the
 pre-sale. And so far regulators have done nothing to investigate, let
-alone, prosecute such a cartelized scam. 
-
-[^12]: See: <https://prestonbyrne.com/2018/04/23/on-ethereum-security/>
-
+alone, prosecute such a cartelized scam.
 
 
 ## Tokenization: cartels aimed to gouge consumers. No numeraire and return to barter
@@ -745,9 +701,8 @@ recent years have been technically illegal as they are non-compliant
 securities hiding under the label of "security tokens". Even worse, the
 business model behind most of the remaining ones – the so-called
 "utility tokens" - is simply to fleece customers, as Izabella Kaminska of
-the _Financial Times_ and Martin Walker of the Center for EvidenceBased Management recently demonstrated in a [report](http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/treasury-committee/digital-currencies/written/82032.html) for the UK
+the Financial Times and Martin Walker of the Center for Evidence-Based Management recently demonstrated in a [report](http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/treasury-committee/digital-currencies/written/82032.html) for the UK
 House of Commons Treasury Committee.
-
 
 In normal business transactions, customers can buy goods and service
 with conventional currencies. But in an ICO, customers must convert
@@ -764,7 +719,6 @@ on dental services (and which almost no dentist actually accepts). It
 would be hard to come up with a better illustration of why business
 cartels are illegal in all civilized countries.
 
-
 Of course, the crypto-cartels would counter that customers who incur
 the cost of buying a token will benefit if that token appreciates in value.
 But this makes no sense. If the price of the token rises above the
@@ -772,8 +726,9 @@ market value of the good or service being provided, then no one would
 buy the token. The only plausible reason for forcing the use of a token,
 then, is to hike prices or bilk investors.
 
-Beyond facilitating illegal activity, crypto-tokens obfuscate the pricediscovery benefits that come when a single currency operates as a unit
-of account. In a crypto-utopia, every single good and service would 
+Beyond facilitating illegal activity, crypto-tokens obfuscate
+the price-discovery benefits that come when a single currency operates as a unit
+of account. In a crypto-utopia, every single good and service would
 have its own distinct token, and average consumers would have no way
 to judge the relative prices of different – or even similar – goods and
 services. Nor would they have any real certainty about a token's
@@ -793,7 +748,7 @@ traditional societies depended.
 
 That is precisely where the ICO charlatans would effectively take us –
 not to the futuristic world of "[The Jetsons](https://www.imdb.com/title/tt0055683/)," but to the modern Stone
-Age world - that is worse than "[The Flintstones]()https://www.imdb.com/title/tt0053502/" – who at least used
+Age world - that is worse than "[The Flintstones](https://www.imdb.com/title/tt0053502/)" – who at least used
 clam shells as their money and understood the importance of a single
 numeraire - where all transactions occur through the barter of different
 tokens or goods. It is time to recognize their utopian rhetoric for what it
@@ -801,9 +756,7 @@ is: self-serving nonsense meant to separate credulous investors from
 their hard-earned savings.
 
 
-
 ## Massive manipulation: pump 'n' dump, spoofing, wash trading, front running, exchanges conflicts of interest, tether scam
-
 
 There is now massive evidence – from serious press investigations and
 academic studies – that the entire crypto-land is subject to massive,
@@ -820,10 +773,7 @@ insider trading is systemic in crypto land. For example, various
 investigations by the Wall Street Journal have shown that hundreds of
 criminal "pump and dump" chat rooms exist on the Telegram chap app
 that are aimed only at systematically manipulating the price of
-hundreds of crypto-currencies. [^13]
-
-[^13]: See <https://www.wsj.com/graphics/cryptocurrency-schemes-generate-big-coin/>
-
+hundreds of crypto-currencies. [13]
 
 In 2018 cryptocurrency values fell by 90% on average from their
 December peak. They would have collapsed much more had a
@@ -831,7 +781,6 @@ vast [scheme](https://youtu.be/MwKYbT9MoPE) to prop up their price via [outright
 rapidly implemented. But, like in the case of the sub-prime bubble,
 most US regulators are still asleep at the wheel while having started
 investigations months ago.
-
 
 The mother of all manipulations in the crypto land is related to Tether
 and Bitfinex – a shady crypto exchange – that is its backer. Bitfinex -
@@ -841,16 +790,13 @@ shady bank that provides it banking service linked to fiat dollars. And
 the supply of Tether is increased randomly – by hundreds of millions of
 chunks at a time via pure fiat - as a way to manipulate and prop up the
 value of Bitcoin and the entire related crypto-currency system. Tether
-has already created by fiat billions of dollars of a “stable coin” that has
+has already created by fiat billions of dollars of a "stable coin" that has
 never been audited. The creation of fiat Tether has been systematically
 used to prop up manipulate upward the price of Bitcoin and other
 crypto-currencies according to a recent academic paper by a leading
 scholar at the University of Texas. Without such outright criminal
 manipulation the price of Bitcoin would now be about 80% lower than
-its current value, ie about $1200 rather than the current $6500. [^14]
-
-[^14]: See <https://www.bloomberg.com/news/articles/2018-06-13/professor-who-rang-vix-alarm-says-tether-used-toboost-bitcoin>
-
+its current value, ie about $1200 rather than the current $6500. [14]
 
 
 ## No Killer App in Crypto/Blockchain After A Decade: Only Ponzi Schemes
@@ -859,7 +805,7 @@ Even supporters of crypto and blockchain do admit that there no killer
 app in Crypto or Blockchain even after a decade of developments and
 attempts. And as shown above the comparison with the early days of
 the internet is utter nonsense as the Internet had massive adoption and
-many early killer apps or websites. 
+many early killer apps or websites.
 
 The only think that Crypto/Blockchain is DAPPS or Distributed Apps. But
 recent studies show that 75% of the highly illiquid and bared used
@@ -871,16 +817,15 @@ exchanges that no one uses as 99% of all crypto trading occurs on
 centralized exchanges. So pretty much most DAPPS are scams or
 useless gimmick and their transaction volumes are close to zero. Pretty
 much no adoption of anything. So the comparison with early days of
-the Internet is nonsense. 
+the Internet is nonsense.
 
 
 ## The energy consumption of crypto is an environmental disaster
 
-The environmental costs of the energy use of Bitcoin and other cryptocurrencies is so vast that has been correctly and repeatedly compared 
+The environmental costs of the energy use of Bitcoin and other cryptocurrencies is so vast that has been correctly and repeatedly compared
 to an environmental disaster. No need to repeat how such energy misuse and waste is massive – larger than the energy use per year of a midsized advanced economy. Such an environmental disaster has shamed
 even supporters of crypto who have become defensive given the
 embarrassing evidence of such energy costs and pollution.
-
 
 But now zealot supporters of crypto are pretending that this
 environmental disaster can be minimized or resolved soon. Since using
@@ -907,7 +852,7 @@ other services to billions of people daily in hundreds of billions of daily
 transactions. So of course their use of energy will be larger than crypto.
 Crypto is used by 22 million folks globally – less than 5 million active
 ones today – and its entire market cap is 200 billion – not the 300
-trillion of global financial and real assets – and is producing value added 
+trillion of global financial and real assets – and is producing value added
 that is a few billions a year – new crypto mining. But its energy use cost
 is already about $5 billion a year. So comparing the energy use of
 useless, inefficient and tiny crypto to the services of financial
@@ -916,29 +861,26 @@ comparing apples and oranges or, better, crypto parasites with useful
 financial services (payments, credit, insurance, asset management,
 capital market services) used by billions. That is why a recent scholar
 has defined Bitcoin as being "as efficient as a lame hippopotamus with
-an hangover" [^15]
-
-[^15]: See <https://prestonbyrne.com/2018/10/05/bitcoin_hippo/>
-
+an hangover" [15]
 
 
 ## Blockchain is most overhyped technology ever, no better than a glorified spreadsheet or database
 
 And why is blockchain no better than an Excel spreadsheet or
-database? 
+database?
 
 There is no institution under the sun – bank, corporation, non-profit,
-government, charity – who would put on public, decentralized, peer-topeer permission-less, trust-lees, distributed ledgers its balance sheet,
+government, charity – who would put on public, decentralized, peer-to-peer permission-less, trust-lees, distributed ledgers its balance sheet,
 P&L, transactions, trades, interactions with clients and suppliers. Why
 should all this information – mostly proprietary and highly valuable – be
 on a public ledger and authenticated by some random, not transparent
 and shady group of "miners"? No reason and thus there is NO
 institution whatsoever using a public, permission-less distributed
-technology. 
+technology.
 
 The only applications of blockchain – so called "enterprise distributed ledger technology (DLT)" – have
 in reality absolutely nothing to do with blockchain. They are private not
-public, they are centralized not decentralized, they are not distributed 
+public, they are centralized not decentralized, they are not distributed
 as they are on a few controlled ledgers not millions of public ones, they
 are permissioned with very few legitimate individuals authorized to add
 and change the ledgers rather than being permission-less, they are
@@ -947,13 +889,13 @@ over time rather than being trustless, they are not peer-to-peer as a
 centralized and permissioned intermediary is in charge of
 authentication. In other term they are called blockchains but they are
 not blockchains as they have nothing to do with a public distributed
-ledger technology. 
+ledger technology.
 
 So all so called "decentralized" blockchains end up being centralized
 private permissioned databases, ie effectively no improvement over
 using an Excel spreadsheet rather than hogging more energy than most
 large-sized economies to put private information on millions of
-computers all over the world. 
+computers all over the world.
 
 And now wonder as no person or firm or institution in authority in the
 private or public sector would ever allow all of its transactions to be
@@ -971,9 +913,8 @@ Internet universally accessible (TCP-IP, HTML, and so forth): there are
 1000s different "blockchain" incompatible with each other and totally
 lacking the critical "inter-operability" that the Internet had from the
 beginning. More fundamentally, its [promise of decentralized transactions](https://www.ft.com/content/b5b1a5f2-5030-11e7-bfb8-997009366969)
-with no intermediary authority amounts to [an untested, Utopian pipedream](https://ftalphaville.ft.com/2017/11/22/2196054/taking-the-block-out-of-blockchain/). 
+with no intermediary authority amounts to [an untested, Utopian pipedream](https://ftalphaville.ft.com/2017/11/22/2196054/taking-the-block-out-of-blockchain/).
 No wonder blockchain [is ranked close to the peak of the hype cycle of technologies with inflated expectations](https://www.gartner.com/newsroom/id/3412017).
-
 
 So blockchain is one of the most [overhyped technologies ever](https://www.project-syndicate.org/commentary/why-bitcoin-is-a-bubble-by-nouriel-roubini-2018-01).
 Blockchains are less efficient than existing databases. When someone
@@ -998,18 +939,16 @@ marketed. Blockchain investment propositions routinely make wild
 promises to overthrow entire industries, such as [cloud computing](https://dfinity.org/),
 without acknowledging the technology’s obvious limitations.
 
-
 Consider the many schemes that rest on the claim that blockchains are
 a distributed, universal "world computer." That claim assumes that
 banks, which already use efficient systems to process millions of
 transactions per day, have reason to migrate to a markedly slower and
 less efficient single cryptocurrency. This contradicts everything we
-know about the financial industry's use of software. Financial 
+know about the financial industry's use of software. Financial
 institutions, particularly those engaged in algorithmic trading, need fast
 and efficient transaction processing. For their purposes, a single
 globally distributed blockchain such as Ethereum would never be useful
 and they will never use it.
-
 
 Another false assumption is that blockchain represents something akin
 to a new universal protocol, like TCP-IP or HTML were for the Internet.
@@ -1032,14 +971,13 @@ centralized database, nor shall we do so in a single distributed
 database. Indeed, the problem of "blockchain scaling" is still more or
 less unsolved, and is likely to remain so forever.
 
-
 Although we can be fairly sure that blockchain will not unseat TCP-IP, a
 particular blockchain could eventually set a standard for specific private
 permissioned, not general and public, applications, just as Enterprise
 Linux and Windows did for PC operating systems. But betting on a
 particular "coin," as many investors currently are, is not the same thing
 as betting on adoption of a larger "protocol" that does not require the
-use of any coin. Given what we know about how open-source software 
+use of any coin. Given what we know about how open-source software
 is used, there is little reason to think that the value to enterprises of
 specific blockchain applications will capitalize directly into any coin.
 
@@ -1063,7 +1001,6 @@ parties to a transaction are in agreement with one another about its
 status and their obligations before a trusted and permissioned central
 authority verifies the transaction.
 
-
 It is high time to end the hype. Bitcoin is a slow, energy-inefficient
 dinosaur that will never be able to process transactions as quickly or
 inexpensively as an Excel spreadsheet. Ethereum’s plans for an insecure
@@ -1072,7 +1009,7 @@ manipulation by influential insiders. And Ripple's technology for crossborder in
 a non-blockchain consortium that all of the world’s major financial
 institutions already use. And the technology behind Ripple is different
 from its coin XRP: some may use the technology/protocol but no one
-will use the underlying coin whose value has collapsed. Ditto for Ether 
+will use the underlying coin whose value has collapsed. Ditto for Ether
 versus Ethereum. Similarly, centralized e-payment systems with almost
 no transaction costs – Faster Payments, AliPay, WeChat Pay, Venmo,
 Paypal, Square – are already being used by billions of people around
@@ -1083,7 +1020,6 @@ specific, narrow well-defined, and complex applications that require
 transparency and tamper-resistance more than they require speed. So
 they are not truly a "blockchain".
 
-
 A case in point, among hundreds of other cases, is the recent
 announcement of the IBM food "blockchain" going live with a major
 supermarket giant being on board with this project. Leave aside that
@@ -1093,31 +1029,27 @@ this system inter-operable among thousands of users and customers.
 The key issue is – as the IBM spokesman quoted in the article say – that
 this system "obviously requires the growers, the suppliers, and the
 retailers all to be part of the solution, sending in information in a trusted
-and permissioned fashion and we link it all together." [^16] So this alleged
-blockchain system is trusted not trustless, permissioned not permissionless and managed and linked strictly by IBM, not a distributed peer-topeer consensus mechanism managed by millions of anonymous
+and permissioned fashion and we link it all together." [16] So this alleged
+blockchain system is trusted not trustless, permissioned not permissionless and managed and linked strictly by IBM, not a distributed peer-to-peer consensus mechanism managed by millions of anonymous
 computers. Therefore, this project has nothing to do with blockchain,
 as defined in standard terms. It is a traditional database with the usual
 key elements of a private, permissioned databased managed by
 centralized and trusted authorities. And the same exact model is the
 base of any other Enterprise DLT: none of them have anything
 substantial to do with blockchain even if they use this faddy and catchy
-label. 
-
-[^16]: See <https://www.coindesk.com/ibm-food-supply-chain-blockchain-carrefour-live-production/>
+label.
 
 
 ## Enterprise DLT/Blockchain: All hype and no reality
 
 This is also the reason why corporate blockchains or Enterprise DLT are
 another fad this is now fading and imploding, as a recent Bloomberg
-analysis revealed. [^17] Most companies will halt their blockchain or DLT
+analysis revealed. [17] Most companies will halt their blockchain or DLT
 tests this year; and in 90% of the cases "the experiments will never
 become part of a company's operations". An analyst from Gartner – the
 leading tech research firm - concluded: "The disconnect between the
-hype and the reality is significant -- I've never seen anything like it…. "In
+hype and the reality is significant -- I've never seen anything like it…. In
 terms of actual production use, it's very rare."
-
-[^17]: See <https://www.bloomberg.com/news/articles/2018-07-31/blockchain-once-seen-as-a-corporate-cure-all-suffersslowdown>
 
 And the interest in corporate blockchain is collapsing: "Only 1 percent
 of chief information officers said they had any kind of blockchain
@@ -1125,8 +1057,6 @@ adoption in their organizations, and only 8 percent said they were in
 short-term planning or active experimentation with the technology,
 according to a Gartner [study](https://www.gartner.com/newsroom/id/3873790). Nearly 80 percent of CIOs said they had
 no interest in the technology."
-
-
 
 
 ## Crypto is corrupt eco-system full of charlatans, con-men, self-interested insiders and scammers. But I have NO conflict of interest
@@ -1142,10 +1072,7 @@ not the systemic rule that it is in crypto land. Scams in crypto-currencies
 were so widespread and systemic that the SEC had to create a fake
 website that parodies the scammy ICO to warns investors of the
 plethora of scams and criminal enterprises that infest and dominate
-crypto land.[^18]
-
-[^18]: See: <https://www.marketwatch.com/story/the-sec-created-a-mock-ico-website-to-show-just-how-easy-it-is-forinvestors-to-get-fleeced-2018-05-16>
-
+crypto land.[18]
 
 This scammy eco-system is consistent with the idiotic crypto jargon:
 HODLers are suckers who have hold on their collapsing cryptocurrencies even after they lost 90% of their value; Lambos refer to the
@@ -1159,8 +1086,8 @@ technology but that of an industry of con artists, criminals, scammers
 and carnival barkers.
 
 Unlike all self-interested crypto insiders and scammers who talk and
-spin their book 24/7 and use a media/press eco-system of pseudo -
-journalists to spin their endless fake news I have zero position and
+spin their book 24/7 and use a media/press eco-system of pseudo-journalists
+to spin their endless fake news I have zero position and
 financial interest in this entire space. I have zero long or short position
 in any coin or crypto-currency and any blockchain business venture.
 And even my support of non-blockchain fin-tech is not driven from any
@@ -1168,3 +1095,26 @@ direct or indirect financial interest; I have zero exposure to fin-tech
 ventures. Bitcoin or any crypto-asset could go "To The Moon" or crash
 to zero and I would not make a penny either way. The only thing that is
 at stake is my personal, intellectual and academic reputation.
+
+
+
+## Notes
+
+[1] My apologies to the members of the Senate Banking Committee for using the scatological term "shitcoin" but the term is standard in the crypto jargon and there are more than 500000 references to it in a Google search of this technical term. See <https://www.google.com/search?q=shitcoin>  
+[2] See <https://www.newsbtc.com/2018/10/09/juniper-research-the-crypto-industry-is-on-the-brink-of-an-implosion/>  
+[3] See <https://www.bloomberg.com/news/articles/2018-06-13/professor-who-rang-vix-alarm-says-tether-used-toboost-bitcoin>  
+[4] See <https://www.upress.umn.edu/book-division/books/the-politics-of-bitcoin>  
+[5] See <https://arxiv.org/pdf/1810.02466.pdf>  
+[6] See <https://davidgerard.co.uk/blockchain/ethereum-smart-contracts-in-practice/>  
+[7] See <https://www.coindesk.com/the-dao-bitcoin-development/>  
+[8] See <https://www.cbc.ca/news/technology/ethereum-hack-blockchain-fork-bitcoin-1.3719009>  
+[9] See <https://davidgerard.co.uk/blockchain/ethereum-smart-contracts-in-practice/>  
+[10] We will discuss below the other scam of so-called "utility token".  
+[11] A legal scholar such as Preston Byrne has shown that Ripple Labs has created XRP; see <https://prestonbyrne.com/2018/09/20/for-the-last-time-ripple-created-xrp/>  
+[12] See <https://prestonbyrne.com/2018/04/23/on-ethereum-security/>  
+[13] See <https://www.wsj.com/graphics/cryptocurrency-schemes-generate-big-coin/>  
+[14] See <https://www.bloomberg.com/news/articles/2018-06-13/professor-who-rang-vix-alarm-says-tether-used-toboost-bitcoin>  
+[15] See <https://prestonbyrne.com/2018/10/05/bitcoin_hippo/>  
+[16] See <https://www.coindesk.com/ibm-food-supply-chain-blockchain-carrefour-live-production/>  
+[17] See <https://www.bloomberg.com/news/articles/2018-07-31/blockchain-once-seen-as-a-corporate-cure-all-suffersslowdown>  
+[18] See <https://www.marketwatch.com/story/the-sec-created-a-mock-ico-website-to-show-just-how-easy-it-is-forinvestors-to-get-fleeced-2018-05-16>  
