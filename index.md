@@ -148,7 +148,7 @@ years commitment to inflation targeting in advanced economies and
 most emerging markets has led to price stability (the 2% inflation target
 of most central banks) and for the last decade the biggest problem of
 central banks has been that achieving the inflation target of 2% after
-the GFC has become extremely difficult as, in spite of unconventional
+the global financial crisis has become extremely difficult as, in spite of unconventional
 monetary policies, the inflation rate has systematically undershot its 2%
 target.
 
